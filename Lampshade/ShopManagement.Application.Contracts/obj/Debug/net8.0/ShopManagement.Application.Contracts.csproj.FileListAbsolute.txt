@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.deps.json
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.sourcelink.json
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopMana.6F35FA60.Up2Date
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\refint\ShopManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ref\ShopManagement.Application.Contracts.dll

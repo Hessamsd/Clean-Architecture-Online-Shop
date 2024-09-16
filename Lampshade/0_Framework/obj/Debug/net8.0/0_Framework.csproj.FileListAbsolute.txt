@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\bin\Debug\net8.0\0_Framework.deps.json
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\bin\Debug\net8.0\0_Framework.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.sourcelink.json
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\refint\0_Framework.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\0_Framework.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\0_Framework\obj\Debug\net8.0\ref\0_Framework.dll
