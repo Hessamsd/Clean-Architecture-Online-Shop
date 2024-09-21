@@ -12,7 +12,7 @@ namespace ServiceHost
             // Add services to the container.
             builder.Services.AddRazorPages();
 
-            var connectiostring = builder.Configuration.GetConnectionString("LampShadeDb");
+            var connectiostring = builder.Configuration.GetConnectionString("LampShadeDb") ;
 
             ShopManagementBootstrapper.Configure(builder.Services, connectiostring);
 
