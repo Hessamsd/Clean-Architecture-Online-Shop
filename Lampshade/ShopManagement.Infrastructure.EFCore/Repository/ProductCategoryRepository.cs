@@ -2,10 +2,10 @@
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
 
-namespace ShopManagement.Infrastructure.EFCore
+namespace ShopManagement.Infrastructure.EFCore.Repository
 {
 
-    public class ProductCategoryRepository : RepositoryBase<int, ProductCategory> , IProductCategoryRepository 
+    public class ProductCategoryRepository : RepositoryBase<int, ProductCategory>, IProductCategoryRepository
     {
 
         private readonly ShopContext _Context;
@@ -14,7 +14,7 @@ namespace ShopManagement.Infrastructure.EFCore
         {
             _Context = context;
         }
-         
+
 
 
         public EditProductCategory GetDetails(int id)
@@ -32,8 +32,17 @@ namespace ShopManagement.Infrastructure.EFCore
                 Slug = x.Slug,
             }).FirstOrDefault(x => x.Id == id);
         }
-                
 
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _Context.ProductCategories.Select(x => new ProductCategoryViewModel
+            {
+
+                Id = x.Id,
+                Name = x.Name
+
+            }).ToList();
+        }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)
         {
@@ -49,7 +58,7 @@ namespace ShopManagement.Infrastructure.EFCore
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
                 query = query.Where(x => x.Name.Contains(searchModel.Name));
-                    
+
             return query.OrderByDescending(x => x.Id).ToList();
 
         }
