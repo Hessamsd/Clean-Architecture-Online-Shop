@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Infrastructu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Configuration", "ShopManagement.Configuration\ShopManagement.Configuration.csproj", "{1C4F7974-5BEF-4C5D-909D-AC7EA5B33E37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
