@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C0D69D3-A098-4353-B5B6-F17299CB16A3}|DiscountManagement.Domain\\DiscountManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.domain\\icustomerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0D69D3-A098-4353-B5B6-F17299CB16A3}|DiscountManagement.Domain\\DiscountManagement.Domain.csproj|solutionrelative:discountmanagement.domain\\icustomerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.application.contract\\icustomerdiscountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|solutionrelative:discountmanagement.application.contract\\icustomerdiscountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.application.contract\\customerdiscountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|solutionrelative:discountmanagement.application.contract\\customerdiscountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C0D69D3-A098-4353-B5B6-F17299CB16A3}|DiscountManagement.Domain\\DiscountManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.domain\\customerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0D69D3-A098-4353-B5B6-F17299CB16A3}|DiscountManagement.Domain\\DiscountManagement.Domain.csproj|solutionrelative:discountmanagement.domain\\customerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FECA1E7C-6141-4962-938B-210028EE14FB}|DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.infrastructure.efcore\\repository\\customerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECA1E7C-6141-4962-938B-210028EE14FB}|DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|solutionrelative:discountmanagement.infrastructure.efcore\\repository\\customerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.application.contract\\customerdiscountsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|solutionrelative:discountmanagement.application.contract\\customerdiscountsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.application.contract\\definecustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56F94C4-E984-4474-9F15-FE6E4FE8B094}|DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj|solutionrelative:discountmanagement.application.contract\\definecustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FECA1E7C-6141-4962-938B-210028EE14FB}|DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\discountmanagement.infrastructure.efcore\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECA1E7C-6141-4962-938B-210028EE14FB}|DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|solutionrelative:discountmanagement.infrastructure.efcore\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICustomerDiscountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Domain\\ICustomerDiscountRepository.cs",
-              "RelativeDocumentMoniker": "DiscountManagement.Domain\\ICustomerDiscountRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Domain\\ICustomerDiscountRepository.cs",
-              "RelativeToolTip": "DiscountManagement.Domain\\ICustomerDiscountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:30:15.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICustomerDiscountApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\ICustomerDiscountApplication.cs",
-              "RelativeDocumentMoniker": "DiscountManagement.Application.Contract\\ICustomerDiscountApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\ICustomerDiscountApplication.cs",
-              "RelativeToolTip": "DiscountManagement.Application.Contract\\ICustomerDiscountApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:25:23.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DefineCustomerDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DefineCustomerDiscount.cs",
-              "RelativeDocumentMoniker": "DiscountManagement.Application.Contract\\DefineCustomerDiscount.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DefineCustomerDiscount.cs",
-              "RelativeToolTip": "DiscountManagement.Application.Contract\\DefineCustomerDiscount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:21:56.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CustomerDiscountSearchModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\CustomerDiscountSearchModel.cs",
               "RelativeDocumentMoniker": "DiscountManagement.Application.Contract\\CustomerDiscountSearchModel.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\CustomerDiscountSearchModel.cs",
               "RelativeToolTip": "DiscountManagement.Application.Contract\\CustomerDiscountSearchModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:20:07.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerDiscountViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\CustomerDiscountViewModel.cs",
-              "RelativeDocumentMoniker": "DiscountManagement.Application.Contract\\CustomerDiscountViewModel.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\CustomerDiscountViewModel.cs",
-              "RelativeToolTip": "DiscountManagement.Application.Contract\\CustomerDiscountViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:19:34.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Domain\\CustomerDiscount.cs",
-              "RelativeDocumentMoniker": "DiscountManagement.Domain\\CustomerDiscount.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Domain\\CustomerDiscount.cs",
-              "RelativeToolTip": "DiscountManagement.Domain\\CustomerDiscount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:16:41.105Z",
+              "WhenOpened": "2024-09-23T09:11:50.758Z",
               "EditorCaption": ""
             },
             {
@@ -121,6 +44,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDiscountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs*",
+              "RelativeToolTip": "DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs*",
+              "ViewState": "AQIAADAAAAAAAAAAAAAawEQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:58:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountContext.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Infrastructure.EFCore\\DiscountContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountContext.cs",
+              "RelativeToolTip": "DiscountManagement.Infrastructure.EFCore\\DiscountContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:29:23.865Z",
+              "EditorCaption": ""
             }
           ]
         }
