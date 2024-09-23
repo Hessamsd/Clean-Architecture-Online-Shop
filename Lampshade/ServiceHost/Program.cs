@@ -1,3 +1,4 @@
+using DiscountManagement.Configuration;
 using ServiceHost.Pages.Shop.ProductCategories;
 using ShopManagement.Configuration;
 
@@ -14,7 +15,8 @@ namespace ServiceHost
 
             var connectiostring = builder.Configuration.GetConnectionString("LampShadeDb") ;
 
-            ShopManagementBootstrapper.Configure(builder.Services, connectiostring);
+            ShopManagementBootstrapper.Configure(builder.Services,connectiostring);
+            DiscountManagementBootstrapper.Configure(builder.Services,connectiostring);
 
 
             var app = builder.Build();
