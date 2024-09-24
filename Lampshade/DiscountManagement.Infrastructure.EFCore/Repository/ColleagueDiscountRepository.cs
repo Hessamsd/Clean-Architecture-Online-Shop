@@ -38,7 +38,9 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 ProductId = x.ProductId,
                 DiscountRate = x.DiscountRate,
-                CreationDate = x.CreationDate.ToFarsi()
+                CreationDate = x.CreationDate.ToFarsi(),
+                IsRemoved = x.IsRemoved,
+
 
             });
 
@@ -50,7 +52,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
 
             discount.ForEach(discount => discount.Product = products.FirstOrDefault(x => x.Id == discount.ProductId)?.Name);
             return discount;
-            
+
 
         }
     }

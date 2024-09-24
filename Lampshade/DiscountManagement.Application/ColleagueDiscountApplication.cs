@@ -15,7 +15,7 @@ namespace DiscountManagement.Application
             _colleagueDiscountRepository = colleagueDiscountRepository;
         }
 
-        public OperationResult Define(DefaineColleagueDiscount command)
+        public OperationResult Define(DefineColleagueDiscount command)
         {
             var operation = new OperationResult();
 
