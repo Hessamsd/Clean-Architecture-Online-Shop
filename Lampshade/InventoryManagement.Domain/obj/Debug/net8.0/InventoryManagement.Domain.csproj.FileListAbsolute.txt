@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.sourcelink.json
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.deps.json
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\bin\Debug\net8.0\0_Framework.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\Inventor.631CB0DA.Up2Date
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\refint\InventoryManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Domain\obj\Debug\net8.0\ref\InventoryManagement.Domain.dll
