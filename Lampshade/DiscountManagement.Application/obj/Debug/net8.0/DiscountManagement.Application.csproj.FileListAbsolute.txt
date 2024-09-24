@@ -18,3 +18,5 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\refint\DiscountManagement.Application.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\ref\DiscountManagement.Application.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
