@@ -55,7 +55,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("customerDiscounts", (string)null);
+                    b.ToTable("CustomerDiscounts", (string)null);
                 });
 #pragma warning restore 612, 618
         }

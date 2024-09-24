@@ -1,4 +1,4 @@
-﻿using DiscountManagement.Domain;
+﻿using DiscountManagement.Domain.CustomerDiscountAgg;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -8,7 +8,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Mapping
     {
         public void Configure(EntityTypeBuilder<CustomerDiscount> builder)
         {
-            builder.ToTable("customerDiscounts");
+            builder.ToTable("CustomerDiscounts");
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Reason).HasMaxLength(500);
         }

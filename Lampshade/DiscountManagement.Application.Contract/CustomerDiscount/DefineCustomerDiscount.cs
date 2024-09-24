@@ -1,5 +1,5 @@
 ﻿using ShopManagement.Application.Contracts.Product;
-namespace DiscountManagement.Application.Contract
+namespace DiscountManagement.Application.Contract.CustomerDiscount
 {
     public class DefineCustomerDiscount
     {

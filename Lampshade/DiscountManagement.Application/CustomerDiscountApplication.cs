@@ -1,6 +1,6 @@
 ﻿using _0_Framework.Application;
-using DiscountManagement.Application.Contract;
-using DiscountManagement.Domain;
+using DiscountManagement.Application.Contract.CustomerDiscount;
+using DiscountManagement.Domain.CustomerDiscountAgg;
 
 namespace DiscountManagement.Application
 {

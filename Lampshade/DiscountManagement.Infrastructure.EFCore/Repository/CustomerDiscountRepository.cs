@@ -1,7 +1,7 @@
 ﻿using _0_Framework.Application;
 using _0_Framework.Infrastructure;
-using DiscountManagement.Application.Contract;
-using DiscountManagement.Domain;
+using DiscountManagement.Application.Contract.CustomerDiscount;
+using DiscountManagement.Domain.CustomerDiscountAgg;
 using ShopManagement.Infrastructure.EFCore;
 
 namespace DiscountManagement.Infrastructure.EFCore.Repository
@@ -19,7 +19,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
 
         public EditCustomerDiscount GetDetails(int id)
         {
-            return _discountContext.customerDiscounts.Select(x => new EditCustomerDiscount
+            return _discountContext.CustomerDiscounts.Select(x => new EditCustomerDiscount
             {
 
                 Id = x.Id,
@@ -36,7 +36,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
         public List<CustomerDiscountViewModel> Search(CustomerDiscountSearchModel searchModel)
         {
             var products = _shopContext.Products.Select(x => new { x.Id, x.Name });
-            var query = _discountContext.customerDiscounts.Select(x => new CustomerDiscountViewModel
+            var query = _discountContext.CustomerDiscounts.Select(x => new CustomerDiscountViewModel
             {
 
                 Id = x.Id,
