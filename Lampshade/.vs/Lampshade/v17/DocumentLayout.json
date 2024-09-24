@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.domain\\inventoryagg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\inventoryagg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.domain\\inventoryagg\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\inventoryagg\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\Inventory.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Domain\\InventoryAgg\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\Inventory.cs*",
-              "RelativeToolTip": "InventoryManagement.Domain\\InventoryAgg\\Inventory.cs*",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswCgAAAAAAAAA",
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
+              "RelativeToolTip": "InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:55:13.625Z",
+              "WhenOpened": "2024-09-24T18:01:24.708Z",
               "EditorCaption": ""
             }
           ]

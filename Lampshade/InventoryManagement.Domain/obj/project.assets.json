@@ -211,6 +211,19 @@
         "runtime": {
           "bin/placeholder/0_Framework.dll": {}
         }
+      },
+      "InventoryManagement.Application.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "0_Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InventoryManagement.Application.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryManagement.Application.Contract.dll": {}
+        }
       }
     }
   },
@@ -571,11 +584,17 @@
       "type": "project",
       "path": "../0_Framework/0_Framework.csproj",
       "msbuildProject": "../0_Framework/0_Framework.csproj"
+    },
+    "InventoryManagement.Application.Contract/1.0.0": {
+      "type": "project",
+      "path": "../InventoryManagement.Application.Contract/InventoryManagement.Application.Contract.csproj",
+      "msbuildProject": "../InventoryManagement.Application.Contract/InventoryManagement.Application.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "0_Framework >= 1.0.0"
+      "0_Framework >= 1.0.0",
+      "InventoryManagement.Application.Contract >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -613,6 +632,9 @@
           "projectReferences": {
             "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
               "projectPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+            },
+            "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
             }
           }
         }

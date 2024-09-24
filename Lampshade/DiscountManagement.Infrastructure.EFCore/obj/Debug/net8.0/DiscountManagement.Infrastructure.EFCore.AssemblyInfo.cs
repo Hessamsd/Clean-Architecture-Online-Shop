@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscountManagement.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12b8ee9dec5f4b41c83e24ecac0071be21a46e34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92bdd934af30f27c0964ff6e2c6a58097ce5178")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscountManagement.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscountManagement.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

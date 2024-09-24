@@ -1,0 +1,10 @@
+﻿namespace InventoryManagement.Application.Contract.Inventory
+{
+    public class ReduceInventory
+    {
+        public int ProductId { get; set; }
+        public int Count { get; set; }
+        public int OrderId { get; set; }
+        public string Description { get; set; }
+    }
+}
