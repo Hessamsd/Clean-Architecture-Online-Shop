@@ -26,3 +26,5 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrustructure.Configuration\obj\Debug\net8.0\refint\InventoryManagement.Infrustructure.Configuration.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrustructure.Configuration\obj\Debug\net8.0\InventoryManagement.Infrustructure.Configuration.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrustructure.Configuration\obj\Debug\net8.0\ref\InventoryManagement.Infrustructure.Configuration.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrustructure.Configuration\bin\Debug\net8.0\InventoryManagement.Application.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrustructure.Configuration\bin\Debug\net8.0\InventoryManagement.Application.pdb
