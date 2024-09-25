@@ -1,4 +1,5 @@
 using DiscountManagement.Configuration;
+using InventoryManagement.Infrustructure.Configuration;
 using ServiceHost.Pages.Shop.ProductCategories;
 using ShopManagement.Configuration;
 
@@ -17,7 +18,7 @@ namespace ServiceHost
 
             ShopManagementBootstrapper.Configure(builder.Services,connectiostring);
             DiscountManagementBootstrapper.Configure(builder.Services,connectiostring);
-
+            InventoryManagementBootstrapper.Configure(builder.Services, connectiostring);
 
             var app = builder.Build();
 

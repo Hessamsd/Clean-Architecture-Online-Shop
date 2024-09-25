@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.domain\\inventoryagg\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\inventoryagg\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{623E9A8F-573A-4928-8296-4FF45740AAEF}|InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.infrastructure.efcore\\migrations\\20240925071832_inventoradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E9A8F-573A-4928-8296-4FF45740AAEF}|InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj|solutionrelative:inventorymanagement.infrastructure.efcore\\migrations\\20240925071832_inventoradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2025B95D-0345-46F3-8572-031B34D09253}|InventoryManagement.Infrustructure.Configuration\\InventoryManagement.Infrustructure.Configuration.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.infrustructure.configuration\\inventorymanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2025B95D-0345-46F3-8572-031B34D09253}|InventoryManagement.Infrustructure.Configuration\\InventoryManagement.Infrustructure.Configuration.csproj|solutionrelative:inventorymanagement.infrustructure.configuration\\inventorymanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240925071832_InventorAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\Migrations\\20240925071832_InventorAdd.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure.EFCore\\Migrations\\20240925071832_InventorAdd.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\Migrations\\20240925071832_InventorAdd.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure.EFCore\\Migrations\\20240925071832_InventorAdd.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:18:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
+              "RelativeToolTip": "ServiceHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:13:19.415Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -26,15 +60,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IInventoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "RelativeToolTip": "InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagementBootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "RelativeToolTip": "InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:01:24.708Z",
+              "WhenOpened": "2024-09-25T07:03:18.605Z",
               "EditorCaption": ""
             }
           ]

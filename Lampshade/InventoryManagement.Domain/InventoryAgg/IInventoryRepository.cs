@@ -6,7 +6,7 @@ namespace InventoryManagement.Domain.InventoryAgg
     public interface IInventoryRepository : IRepository<int, Inventory>
     {
         EditInventory GetDetails(int id);
-        List<InventoryViewModel> Serach(InventorySearchModel command);
+        List<InventoryViewModel> Serach(InventorySearchModel searchModel);
 
         Inventory GetBy(int productId);
 
