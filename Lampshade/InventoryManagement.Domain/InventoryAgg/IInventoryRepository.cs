@@ -10,5 +10,7 @@ namespace InventoryManagement.Domain.InventoryAgg
 
         Inventory GetBy(int productId);
 
+        List<InventoryOperationViewModel> GetOperationLog(int InventoryId);
+
     }
 }

@@ -11,5 +11,7 @@ namespace InventoryManagement.Application.Contract.Inventory
         OperationResult Reduce(List<ReduceInventory> command);
         EditInventory GetDetails(int id);
         List<InventoryViewModel> Serach(InventorySearchModel command);
+
+        List<InventoryOperationViewModel> GetOperationLog(int inventoryId);
     }
 }
