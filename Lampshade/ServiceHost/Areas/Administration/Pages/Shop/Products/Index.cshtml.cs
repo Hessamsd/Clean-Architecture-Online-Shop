@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages; 
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductCategory;
@@ -31,7 +31,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.Products
 
         public void OnGet(ProductSearchModel searchModel)
         {
-            ProductCategories = new SelectList(_productCategoryApplication.GetProductCategories(),"Id","Name");
+            ProductCategories = new SelectList(_productCategoryApplication.GetProductCategories(), "Id", "Name");
             Products = _productApplication.Search(searchModel);
         }
 
@@ -66,29 +66,5 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.Products
             return new JsonResult(result);
         }
 
-        public IActionResult OnGetNotInStock(int id)
-        {
-            var result = _productApplication.NotInStock(id);
-
-            TempData["Message"] = result.Message;
-            if (result.IsSuccedded)
-                return RedirectToPage("./Index");
-            Message = result.Message;
-            return RedirectToPage("./Index");
-            
-        }
-
-        public IActionResult OnGetIsInStock(int id)
-        {
-            var result = _productApplication.IsInStock(id);
-
-            TempData["Message"] = result.Message;
-            if (result.IsSuccedded)
-                return RedirectToPage("./Index");
-
-            Message = result.Message;
-            return RedirectToPage("./Index");
-
-        }
     }
 }

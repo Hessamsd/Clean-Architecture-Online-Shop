@@ -3,8 +3,6 @@
 
 }
 
-
-
 <div class="modal-header">
     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     <h4 class="modal-title">سوابق گردش انبار</h4>
@@ -12,7 +10,6 @@
 
 <div class="modal-body">
     <table class="table table-bordered">
-
         <thead>
             <tr>
                 <th>#</th>
@@ -22,19 +19,16 @@
                 <th>موجودی فعلی</th>
                 <th>عملگر</th>
                 <th>توضیحات</th>
-
-            </tr>
         </thead>
         <tbody>
-
             @foreach (var item in Model)
             {
-                <tr class="text-with @(item.Operation ? "bg-success" : "bg-danger")">
+                <tr class="text-white @(item.Operation ? "bg-success" : "bg-danger")">
                     <td>@item.Id</td>
                     <td>@item.Count</td>
                     <td>@item.OperationDate</td>
                     <td>
-                        @if (@item.Operation)
+                        @if (item.Operation)
                         {
                             <span>افزایش</span>
                         }
@@ -51,7 +45,6 @@
         </tbody>
     </table>
 </div>
-
 <div class="modal-footer">
     <button type="button" class="btn btn-default waves-effect" data-dismiss="modal">بستن</button>
 </div>

@@ -7,12 +7,9 @@ namespace ShopManagement.Application.Contracts.Product
     {
         OperationResult Create(CreateProduct command);
         OperationResult Edit(EditProduct command);
-        OperationResult IsInStock(int id);
-        OperationResult NotInStock(int id);
         EditProduct GetDetails(int id);
         List<ProductViewModel> Search(ProductSearchModel searchModel);
-
         List<ProductViewModel> GetProducts();
-        
+
     }
 }

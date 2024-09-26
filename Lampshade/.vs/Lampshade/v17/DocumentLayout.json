@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\inventory\\operationlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\inventory\\operationlog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A5954C-737A-40E5-8FCB-99918884EC3F}|InventoryManagement.Application\\InventoryManagement.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.application\\inventoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A5954C-737A-40E5-8FCB-99918884EC3F}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\inventoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.domain\\inventoryagg\\inventoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46AA6BDF-1E52-457E-8865-AA05D9F809E4}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\inventoryagg\\inventoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{623E9A8F-573A-4928-8296-4FF45740AAEF}|InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\inventorymanagement.infrastructure.efcore\\repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{623E9A8F-573A-4928-8296-4FF45740AAEF}|InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj|solutionrelative:inventorymanagement.infrastructure.efcore\\repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,71 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventoryApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Application\\InventoryApplication.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Application\\InventoryApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Application\\InventoryApplication.cs",
-              "RelativeToolTip": "InventoryManagement.Application\\InventoryApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:26:07.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OperationLog.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Inventory\\OperationLog.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Inventory\\OperationLog.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Inventory\\OperationLog.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Inventory\\OperationLog.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T05:43:54.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Index.cshtml*",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Index.cshtml*",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAF0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T06:19:22.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InventoryOperation.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\InventoryOperation.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Domain\\InventoryAgg\\InventoryOperation.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Domain\\InventoryAgg\\InventoryOperation.cs",
-              "RelativeToolTip": "InventoryManagement.Domain\\InventoryAgg\\InventoryOperation.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:31:38.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InventoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\Repository\\InventoryRepository.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure.EFCore\\Repository\\InventoryRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\Repository\\InventoryRepository.cs",
-              "RelativeToolTip": "InventoryManagement.Infrastructure.EFCore\\Repository\\InventoryRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:27:07.36Z",
-              "EditorCaption": ""
             }
           ]
         }

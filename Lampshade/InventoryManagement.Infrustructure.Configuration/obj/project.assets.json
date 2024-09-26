@@ -1018,7 +1018,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "0_Framework": "1.0.0",
           "ShopManagement.Application.Contracts": "1.0.0"
         },
         "compile": {
