@@ -1,4 +1,6 @@
-﻿namespace _01_LampshadeQuery.Contracts.Productcategory
+﻿using _01_LampshadeQuery.Contracts.Product;
+
+namespace _01_LampshadeQuery.Contracts.Productcategory
 {
     public class ProductCategoryQueryModel
     {
@@ -9,5 +11,6 @@
         public string PictureAlt { get; set; }
         public string PictureTitle { get; set; }
         public string sluge { get; set; }
+        public List<ProductQueryModel> Products { get; set; }
     }
 }

@@ -4,5 +4,6 @@
     {
 
         List<ProductCategoryQueryModel> GetProductCategories();
+        List<ProductCategoryQueryModel> GetProductCategoriesWithProducts();
     }
 }
