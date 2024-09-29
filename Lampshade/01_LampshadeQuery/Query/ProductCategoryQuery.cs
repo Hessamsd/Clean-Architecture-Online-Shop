@@ -10,7 +10,7 @@ using ShopManagement.Infrastructure.EFCore;
 
 namespace _01_LampshadeQuery.Query
 {
-    public class ProductCategoryQuery : IProductCategoryQuery
+    public class ProductCategoryQuery : IProductCategoryQuery     
     {
         private readonly ShopContext _shopContext;
         private readonly InventoryContext _inventoryContext;
