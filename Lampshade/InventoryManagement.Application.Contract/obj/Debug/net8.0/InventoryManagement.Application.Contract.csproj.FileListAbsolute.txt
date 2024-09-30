@@ -2,6 +2,8 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\InventoryManagement.Application.Contract.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\InventoryManagement.Application.Contract.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\0_Framework.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\0_Framework.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net8.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net8.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,5 +16,3 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net8.0\refint\InventoryManagement.Application.Contract.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net8.0\InventoryManagement.Application.Contract.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net8.0\ref\InventoryManagement.Application.Contract.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb

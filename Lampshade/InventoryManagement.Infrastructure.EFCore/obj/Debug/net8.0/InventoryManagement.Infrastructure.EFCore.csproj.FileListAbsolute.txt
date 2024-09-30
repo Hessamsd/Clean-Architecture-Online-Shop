@@ -5,9 +5,15 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\0_Framework.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\InventoryManagement.Application.Contract.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\InventoryManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\0_Framework.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\InventoryManagement.Application.Contract.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
@@ -20,9 +26,3 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net8.0\ref\InventoryManagement.Infrastructure.EFCore.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.pdb

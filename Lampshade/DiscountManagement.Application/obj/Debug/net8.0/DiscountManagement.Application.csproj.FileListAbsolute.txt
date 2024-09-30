@@ -4,9 +4,11 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\0_Framework.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Application.Contract.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Application.Contract.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Domain.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.AssemblyInfoInputs.cache
@@ -18,5 +20,3 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\refint\DiscountManagement.Application.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net8.0\ref\DiscountManagement.Application.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb

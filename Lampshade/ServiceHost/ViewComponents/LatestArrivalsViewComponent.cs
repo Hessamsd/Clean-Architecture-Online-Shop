@@ -15,7 +15,6 @@ namespace ServiceHost.ViewComponents
         public IViewComponentResult Invoke()
         {
             var product = _productQuery.GetLatestArrivals();
-
             return View(product);
         }
     }

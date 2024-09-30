@@ -5,9 +5,15 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\0_Framework.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\DiscountManagement.Application.Contract.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\DiscountManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\DiscountManagement.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\0_Framework.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\DiscountManagement.Application.Contract.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
@@ -20,9 +26,3 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net8.0\ref\DiscountManagement.Infrastructure.EFCore.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net8.0\ShopManagement.Domain.pdb
