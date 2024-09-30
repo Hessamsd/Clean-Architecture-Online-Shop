@@ -11,6 +11,9 @@ namespace _01_LampshadeQuery.Contracts.Productcategory
         public string PictureAlt { get; set; }
         public string PictureTitle { get; set; }
         public string sluge { get; set; }
+        public string  Keywords { get; set; }
+        public string MetaDescription { get; set; }
+        public string Description { get; set; }
         public List<ProductQueryModel> Products { get; set; }
     }
 }
