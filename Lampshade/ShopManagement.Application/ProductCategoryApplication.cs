@@ -6,10 +6,12 @@ namespace ShopManagement.Application
 {
     public class ProductCategoryApplication : IProductCategoryApplication
     {
+        private readonly IFileUploader _fileUploader;
         private readonly IProductCategoryRepository _productCategoryRepository;
 
-        public ProductCategoryApplication(IProductCategoryRepository productCategoryRepository)
+        public ProductCategoryApplication(IFileUploader fileUploader, IProductCategoryRepository productCategoryRepository)
         {
+            _fileUploader = fileUploader;
             _productCategoryRepository = productCategoryRepository;
         }
 
@@ -21,7 +23,7 @@ namespace ShopManagement.Application
 
             var slug = command.Slug.Slugify();
             var productCategory = new ProductCategory(command.Name, command.Description,
-                command.Picture, command.PictureAlt, command.PictureTitle,
+                "", command.PictureAlt, command.PictureTitle,
                 command.Keywords, command.MetaDescription, slug);
             _productCategoryRepository.Create(productCategory);
             _productCategoryRepository.SaveChanges();
@@ -41,10 +43,12 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessage.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
+            var picturePath = $"{command.Slug}";
+            var fileName = _fileUploader.Upload(command.Picture, picturePath);
             productCategory.Edit(command.Name, command.Description,
-                command.Picture, command.PictureAlt, command.PictureTitle,
+                fileName, command.PictureAlt, command.PictureTitle,
                 command.Keywords, command.MetaDescription, slug);
-            
+
             _productCategoryRepository.SaveChanges();
             return operation.Succedded();
         }
@@ -61,7 +65,7 @@ namespace ShopManagement.Application
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)
         {
-            return _productCategoryRepository.Search(searchModel);  
+            return _productCategoryRepository.Search(searchModel);
         }
     }
 }
