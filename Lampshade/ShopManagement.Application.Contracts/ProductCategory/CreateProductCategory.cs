@@ -10,7 +10,7 @@ namespace ShopManagement.Application.Contracts.ProductCategory
         public string Name { get; set; }
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Description { get; set; }
-       
+
 
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         [MaxFileSizeAtrribute(3 * 1024 * 1024, ErrorMessage = ValidationMessages.MaxFileSize)]
