@@ -27,7 +27,6 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 CategoryId = p.CategoryId,
                 Description = p.Description,
                 MetaDescription = p.MetaDescription,
-                Picture = p.Picture,
                 PictureAlt = p.PictureAlt,
                 PictureTitle = p.PictureTitle,
                 ShortDescription = p.ShortDescription,
@@ -44,6 +43,11 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Name = x.Name,
 
             }).ToList();
+        }
+
+        public Product GetProductWithCategory(int id)
+        {
+            return _shopContext.Products.Include(x => x.Category).FirstOrDefault(x=> x.Id == id);
         }
 
         public List<ProductViewModel> Search(ProductSearchModel searchModel)
