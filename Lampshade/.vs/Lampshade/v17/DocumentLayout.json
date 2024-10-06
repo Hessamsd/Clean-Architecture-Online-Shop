@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\shop\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\shared\\components\\latestarrivals\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\latestarrivals\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C42EB236-69FF-4772-8C50-D3E2D0DE2CC0}|ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.infrastructure.efcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C42EB236-69FF-4772-8C50-D3E2D0DE2CC0}|ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|solutionrelative:shopmanagement.infrastructure.efcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\shared\\components\\productcategorywithproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\productcategorywithproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B35C7DC5-22DE-4412-AD07-3E3E0D5DCB03}|ShopManagement.Application\\ShopManagement.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.application\\productapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B35C7DC5-22DE-4412-AD07-3E3E0D5DCB03}|ShopManagement.Application\\ShopManagement.Application.csproj|solutionrelative:shopmanagement.application\\productapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDA2619-319C-4673-BBD1-662DF8F0E4D3}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.application.contracts\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDA2619-319C-4673-BBD1-662DF8F0E4D3}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E948C29-CFAE-4E92-A14E-20C165C09431}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.domain\\slideagg\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E948C29-CFAE-4E92-A14E-20C165C09431}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\slideagg\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C42EB236-69FF-4772-8C50-D3E2D0DE2CC0}|ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.infrastructure.efcore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C42EB236-69FF-4772-8C50-D3E2D0DE2CC0}|ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|solutionrelative:shopmanagement.infrastructure.efcore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFDA2619-319C-4673-BBD1-662DF8F0E4D3}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.application.contracts\\slide\\createslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA2619-319C-4673-BBD1-662DF8F0E4D3}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\slide\\createslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E948C29-CFAE-4E92-A14E-20C165C09431}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.domain\\productagg\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E948C29-CFAE-4E92-A14E-20C165C09431}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productagg\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C42EB236-69FF-4772-8C50-D3E2D0DE2CC0}|ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.infrastructure.efcore\\repository\\sliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EB236-69FF-4772-8C50-D3E2D0DE2CC0}|ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|solutionrelative:shopmanagement.infrastructure.efcore\\repository\\sliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35C7DC5-22DE-4412-AD07-3E3E0D5DCB03}|ShopManagement.Application\\ShopManagement.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.application\\slideapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C7DC5-22DE-4412-AD07-3E3E0D5DCB03}|ShopManagement.Application\\ShopManagement.Application.csproj|solutionrelative:shopmanagement.application\\slideapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,15 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFQAAAB6AAAA",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\LatestArrivals\\Default.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\LatestArrivals\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\LatestArrivals\\Default.cshtml*",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\LatestArrivals\\Default.cshtml*",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T16:59:13.723Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-06T11:32:42.696Z",
               "EditorCaption": ""
             },
             {
@@ -61,66 +64,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\Repository\\ProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EFCore\\Repository\\ProductCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\Repository\\ProductCategoryRepository.cs",
-              "RelativeToolTip": "ShopManagement.Infrastructure.EFCore\\Repository\\ProductCategoryRepository.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwDIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T18:10:47.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "RelativeToolTip": "ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwCAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:13:48.576Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct\\Default.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct\\Default.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\ProductCategoryWithProduct\\Default.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T11:30:40.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application\\ProductApplication.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application\\ProductApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application\\ProductApplication.cs",
-              "RelativeToolTip": "ShopManagement.Application\\ProductApplication.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T11:26:41.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Domain\\SlideAgg\\Slide.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Domain\\SlideAgg\\Slide.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Domain\\SlideAgg\\Slide.cs",
+              "RelativeToolTip": "ShopManagement.Domain\\SlideAgg\\Slide.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwBcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:56:54.512Z",
+              "WhenOpened": "2024-10-06T11:18:48.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Domain\\ProductAgg\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductAgg\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Domain\\ProductAgg\\IProductRepository.cs",
-              "RelativeToolTip": "ShopManagement.Domain\\ProductAgg\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Title": "SlideRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\Repository\\SlideRepository.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EFCore\\Repository\\SlideRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\Repository\\SlideRepository.cs",
+              "RelativeToolTip": "ShopManagement.Infrastructure.EFCore\\Repository\\SlideRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:34:15.913Z",
+              "WhenOpened": "2024-10-06T11:17:08.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SlideApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application\\SlideApplication.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application\\SlideApplication.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application\\SlideApplication.cs",
+              "RelativeToolTip": "ShopManagement.Application\\SlideApplication.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:10:29.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EFCore\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "ShopManagement.Infrastructure.EFCore\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowD4AAAAqAAAA",
+              "Title": "CreateSlide.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\Slide\\CreateSlide.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\Slide\\CreateSlide.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\Slide\\CreateSlide.cs",
+              "RelativeToolTip": "ShopManagement.Application.Contracts\\Slide\\CreateSlide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:36:18.306Z",
+              "WhenOpened": "2024-10-06T11:08:11.511Z",
               "EditorCaption": ""
             }
           ]

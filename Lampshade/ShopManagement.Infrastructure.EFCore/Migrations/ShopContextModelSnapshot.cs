@@ -162,9 +162,6 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                     b.Property<bool>("IsRemoved")
                         .HasColumnType("bit");
 
-                    b.Property<int>("PictuerId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Picture")
                         .IsRequired()
                         .HasMaxLength(1000)
@@ -185,7 +182,7 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("PictuerId");
+                    b.HasIndex("ProductId");
 
                     b.ToTable("ProductPictures", (string)null);
                 });
@@ -263,7 +260,7 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                 {
                     b.HasOne("ShopManagement.Domain.ProductAgg.Product", "Product")
                         .WithMany("ProductPictures")
-                        .HasForeignKey("PictuerId")
+                        .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

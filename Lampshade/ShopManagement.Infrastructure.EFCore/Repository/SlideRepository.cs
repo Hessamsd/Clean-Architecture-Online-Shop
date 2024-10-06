@@ -20,7 +20,6 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
             return _shopContext.Slides.Select(x => new EditSlide
             {
                 Id = x.Id,
-                Picture = x.Picture,
                 PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle,
                 Heading = x.Heading,
@@ -40,9 +39,9 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Picture = x.Picture,
                 Heading = x.Heading,
                 Title = x.Title,
-                IsRemoved = x.IsRemoved,   
+                IsRemoved = x.IsRemoved,
                 CreationDate = x.CreationDate.ToFarsi(),
-            }).OrderByDescending(x => x.Id).ToList();   
+            }).OrderByDescending(x => x.Id).ToList();
         }
 
     }
