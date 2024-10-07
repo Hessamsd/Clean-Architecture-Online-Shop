@@ -3,6 +3,7 @@ using _01_LampshadeQuery.Contracts.Product;
 using DiscountManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrastructure.EFCore;
 using Microsoft.EntityFrameworkCore;
+using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Infrastructure.EFCore;
 
 namespace _01_LampshadeQuery.Query
@@ -22,13 +23,14 @@ namespace _01_LampshadeQuery.Query
 
         public ProductQueryModel GetDetails(string slug)
         {
-            var inventory = _inventoryContext.Inventory.Select(x => new { x.ProductId, x.UnitPrice,x.InStock}).ToList();
+            var inventory = _inventoryContext.Inventory.Select(x => new { x.ProductId, x.UnitPrice, x.InStock }).ToList();
 
             var discounts = _discountContext.CustomerDiscounts.Where(x => x.StartDate < DateTime.Now && x.EndDate > DateTime.Now)
-                .Select(x => new { x.ProductId, x.DiscountRate,x.EndDate }).ToList();
+                .Select(x => new { x.ProductId, x.DiscountRate, x.EndDate }).ToList();
 
 
             var product = _context.Products.Include(x => x.Category)
+                .Include(x => x.ProductPictures)
                 .Select(product => new ProductQueryModel
                 {
 
@@ -45,7 +47,7 @@ namespace _01_LampshadeQuery.Query
                     Keywords = product.Keywords,
                     MetaDescription = product.MetaDescription,
                     ShortDescription = product.ShortDescription,
-               
+                    Pictures = MapProductPictures(product.ProductPictures),
 
                 }).FirstOrDefault(x => x.Slug == slug);
 
@@ -75,6 +77,19 @@ namespace _01_LampshadeQuery.Query
             }
 
             return product;
+        }
+
+        private static List<ProductPictureQueryModel> MapProductPictures(List<ProductPicture> pictures)
+        {
+            return pictures.Select(x => new ProductPictureQueryModel
+            {
+                IsRemoved = x.IsRemoved,
+                Picture = x.Picture,
+                PictureAlt = x.PictureAlt,
+                PictureTitle = x.PictureTitle,
+                ProductId = x.ProductId,
+
+            }).Where(x => !x.IsRemoved).ToList();
         }
 
         public List<ProductQueryModel> GetLatestArrivals()
