@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HtP9N735aZBHpHXpa1iAHqk08cEmgmx/lLZjVD+FIFc=",
+  "Hash": "w3osore52sIep6H1hJe8lSlF/4luJw7QytCk+MTvcyo=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -7121,6 +7121,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف\\2024-10-06-13-00-12-product03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف\\2024-10-07-18-25-30-product02.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/دکوری/صندلی-پاف/2024-10-07-18-25-30-product02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\دکوری\\صندلی-پاف\\2024-10-07-18-25-30-product02.jpg"
     },
     {
       "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\دکوری\\صندلی-پاف-آرتین-مدل-adt\\2020-09-28-13-08-09-121802268.jpg",
