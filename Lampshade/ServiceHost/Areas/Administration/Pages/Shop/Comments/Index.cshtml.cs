@@ -13,7 +13,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.Comments
 
         public string Message { get; set; }
         public List<CommentViewModel> Comments;
-        public List<CommentSearchModel> SearchModel;
+        public CommentSearchModel SearchModel;
 
         private readonly ICommentApplication _commentApplication;
 
