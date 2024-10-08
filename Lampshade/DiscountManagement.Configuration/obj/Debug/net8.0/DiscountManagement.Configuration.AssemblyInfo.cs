@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscountManagement.Configuration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b63c901c453de47de7a67c9dcc79dd25265eafe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e817d5b1abd0da509081eeb71b993642a20f6ca7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscountManagement.Configuration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscountManagement.Configuration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
