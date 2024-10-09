@@ -1,4 +1,5 @@
 using _0_Framework.Application;
+using BlogManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrustructure.Configuration;
 using ServiceHost.Pages.Shop.ProductCategories;
@@ -20,6 +21,8 @@ namespace ServiceHost
             ShopManagementBootstrapper.Configure(builder.Services,connectiostring);
             DiscountManagementBootstrapper.Configure(builder.Services,connectiostring);
             InventoryManagementBootstrapper.Configure(builder.Services, connectiostring);
+            BlogManagementBootstrapper.Configure(builder.Services,connectiostring);
+
             builder.Services.AddTransient<IFileUploader, FileUploader>();
 
             var app = builder.Build();
