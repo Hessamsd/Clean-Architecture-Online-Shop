@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogManagement.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c30a56340d8a6d1da505be481c96d851bddb433")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc1a103b7256c0c2a21aaba43af0329d8aa05fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogManagement.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlogManagement.Infrastructure.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

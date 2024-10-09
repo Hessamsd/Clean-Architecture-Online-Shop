@@ -1,5 +1,6 @@
-﻿using _0_Framework.Infrastructure;
-using BlogManagement.Application.Contract;
+﻿using _0_Framework.Application;
+using _0_Framework.Infrastructure;
+using BlogManagement.Application.Contracts.ArticleCategory;
 using BlogManagement.Domain.ArticleCategoryAgg;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,11 +23,13 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 Name = x.Name,
                 Description = x.Description,
-                CanonicalAddress = x.CanonicalAddress,
+                //CanonicalAddress = x.CanonicalAddress,
                 MetaDescription = x.MetaDescription,
                 Slug = x.Slug,
                 Keywords = x.Keywords,
                 ShowOrder = x.ShowOrder,
+                PictureAlt = x.PictureAlt,
+                PictureTitle = x.PictureTitle,
 
             }).FirstOrDefault(x => x.Id == id);
         }
@@ -41,6 +44,8 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                     Description = x.Description,
                     Picture = x.Picture,
                     ShowOrder = x.ShowOrder,
+                    
+                    CreationDate = x.CreationDate.ToFarsi()
                 });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))

@@ -1,4 +1,4 @@
-﻿namespace BlogManagement.Application.Contract
+﻿namespace BlogManagement.Application.Contracts.ArticleCategory
 {
     public class ArticleCategorySearchModel
     {

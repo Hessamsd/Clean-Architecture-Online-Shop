@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eFADeJfsahFpgNh+A/nCEFdPg93IlXCyXdQwMo3EMQI=",
+  "Hash": "YJIjIpuZZkBvj1PpKssEH0HSHpsheNHovP8fiUaHgiQ=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -7028,12 +7028,12 @@
       "OriginalItemSpec": "wwwroot\\ProductPictures\\اتاق-خواب\\صندلی-چوبی-4\\2024-10-06-10-37-06-Product12.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-13-12-21-05-dark_logo1.jpg",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-19-25-51-1.png",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/2020-08-13-12-21-05-dark_logo1.jpg",
+      "RelativePath": "ProductPictures/اخبار-شرکت/2024-10-09-19-25-51-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7044,15 +7044,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-13-12-21-05-dark_logo1.jpg"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-19-25-51-1.png"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-16-15-42-07-news.png",
+      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-19-26-50-2024-10-09-19-25-51-1.png",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPictures/اخبار-شرکت/2020-08-16-15-42-07-news.png",
+      "RelativePath": "ProductPictures/اخبار-شرکت/2024-10-09-19-26-50-2024-10-09-19-25-51-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7063,7 +7063,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2020-08-16-15-42-07-news.png"
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-19-26-50-2024-10-09-19-25-51-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-20-06-43-1703656206838.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/اخبار-شرکت/2024-10-09-20-06-43-1703656206838.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-20-06-43-1703656206838.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-20-07-11-2.png",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/اخبار-شرکت/2024-10-09-20-07-11-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-09-20-07-11-2.png"
     },
     {
       "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\بهترین-استفاده-از-فضای-خانه\\2020-08-16-13-24-17-article 3.jpg",

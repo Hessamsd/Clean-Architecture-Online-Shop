@@ -17,7 +17,7 @@ namespace BlogManagement.Infrastructure.EFCore.Mapping
             builder.Property(a => a.Slug).HasMaxLength(600);
             builder.Property(a => a.Keywords).HasMaxLength(100);
             builder.Property(a => a.MetaDescription).HasMaxLength(150);
-            builder.Property(a => a.CanonicalAddress).HasMaxLength(1000);
+           //builder.Property(a => a.CanonicalAddress).HasMaxLength(1000);
         }
     }
 }

@@ -1,5 +1,5 @@
 ﻿using _0_Framework.Application;
-using BlogManagement.Application.Contract;
+using BlogManagement.Application.Contracts.ArticleCategory;
 using BlogManagement.Domain.ArticleCategoryAgg;
 
 namespace BlogManagement.Application
@@ -25,8 +25,10 @@ namespace BlogManagement.Application
 
             var slug = command.Slug.Slugify();
             var pictureName = _fileUploader.Upload(command.Picture, slug);
-            var articleCategory = new ArticleCategory(command.Name, slug, pictureName, command.ShowOrder, command.Description
-                , command.Keywords, command.MetaDescription, command.CanonicalAddress);
+
+            var articleCategory = new ArticleCategory(command.Name,pictureName,command.PictureAlt,command.PictureTitle
+                ,command.Description,command.ShowOrder,slug,command.Keywords,command.MetaDescription/*,command.CanonicalAddress)*/);
+
             _articleCategoryRepository.Create(articleCategory);
             _articleCategoryRepository.SaveChanges();
             return operation.Succedded();
@@ -46,9 +48,9 @@ namespace BlogManagement.Application
 
             var slug = command.Slug.Slugify();
             var pictureName = _fileUploader.Upload(command.Picture,slug);
-            articleCategory.Edit(command.Name,pictureName,command.Description
-                ,command.ShowOrder,slug,command.Keywords
-                ,command.MetaDescription,command.CanonicalAddress);
+
+            articleCategory.Edit(command.Name, pictureName, command.PictureAlt, command.PictureTitle
+                , command.Description, command.ShowOrder, slug, command.Keywords, command.MetaDescription/*, command.CanonicalAddress*/);
 
             _articleCategoryRepository.SaveChanges();
             return operation.Succedded();
