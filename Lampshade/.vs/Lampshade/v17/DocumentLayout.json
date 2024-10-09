@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEA6B915-9F09-48BE-A4EF-5001E9120DA3}|BlogManagement.Application\\BlogManagement.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA6B915-9F09-48BE-A4EF-5001E9120DA3}|BlogManagement.Application\\BlogManagement.Application.csproj|solutionrelative:blogmanagement.application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A7DCDAE-F938-42CF-9A31-8DE60E433C57}|01_LampshadeQuery\\01_LampshadeQuery.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\01_lampshadequery\\query\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7DCDAE-F938-42CF-9A31-8DE60E433C57}|01_LampshadeQuery\\01_LampshadeQuery.csproj|solutionrelative:01_lampshadequery\\query\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application.contracts\\iarticlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|solutionrelative:blogmanagement.application.contracts\\iarticlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A7DCDAE-F938-42CF-9A31-8DE60E433C57}|01_LampshadeQuery\\01_LampshadeQuery.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\01_lampshadequery\\contracts\\product\\productquerymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7DCDAE-F938-42CF-9A31-8DE60E433C57}|01_LampshadeQuery\\01_LampshadeQuery.csproj|solutionrelative:01_lampshadequery\\contracts\\product\\productquerymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12A52D9A-0770-4158-B363-D4DF0D7213E1}|BlogManagement.Domain\\BlogManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A52D9A-0770-4158-B363-D4DF0D7213E1}|BlogManagement.Domain\\BlogManagement.Domain.csproj|solutionrelative:blogmanagement.domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12A52D9A-0770-4158-B363-D4DF0D7213E1}|BlogManagement.Domain\\BlogManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A52D9A-0770-4158-B363-D4DF0D7213E1}|BlogManagement.Domain\\BlogManagement.Domain.csproj|solutionrelative:blogmanagement.domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E948C29-CFAE-4E92-A14E-20C165C09431}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\shopmanagement.domain\\commentagg\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E948C29-CFAE-4E92-A14E-20C165C09431}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\commentagg\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application.contracts\\createarticlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|solutionrelative:blogmanagement.application.contracts\\createarticlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application.contracts\\articlecategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|solutionrelative:blogmanagement.application.contracts\\articlecategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application.contracts\\articlecategorysearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|solutionrelative:blogmanagement.application.contracts\\articlecategorysearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,34 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\01_LampshadeQuery\\Query\\ProductQuery.cs",
-              "RelativeDocumentMoniker": "01_LampshadeQuery\\Query\\ProductQuery.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\01_LampshadeQuery\\Query\\ProductQuery.cs",
-              "RelativeToolTip": "01_LampshadeQuery\\Query\\ProductQuery.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAADwv1gAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:51:21.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductQueryModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\01_LampshadeQuery\\Contracts\\Product\\ProductQueryModel.cs",
-              "RelativeDocumentMoniker": "01_LampshadeQuery\\Contracts\\Product\\ProductQueryModel.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\01_LampshadeQuery\\Contracts\\Product\\ProductQueryModel.cs",
-              "RelativeToolTip": "01_LampshadeQuery\\Contracts\\Product\\ProductQueryModel.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAxwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:49:21.76Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -68,41 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Domain\\CommentAgg\\Comment.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Domain\\CommentAgg\\Comment.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Domain\\CommentAgg\\Comment.cs",
-              "RelativeToolTip": "ShopManagement.Domain\\CommentAgg\\Comment.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA5wAUAAAARAAAA",
+              "DocumentIndex": 2,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeToolTip": "BlogManagement.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:30:11.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Product.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Product.cshtml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Product.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Pages\\Product.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T13:44:09.213Z",
+              "WhenOpened": "2024-10-09T11:38:00.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Product.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Product.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Product.cshtml",
-              "RelativeToolTip": "ServiceHost\\Pages\\Product.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T13:35:23.764Z",
+              "Title": "ArticleCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application\\ArticleCategoryApplication.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Application\\ArticleCategoryApplication.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application\\ArticleCategoryApplication.cs",
+              "RelativeToolTip": "BlogManagement.Application\\ArticleCategoryApplication.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:29:24.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArticleCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\IArticleCategoryApplication.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Application.Contracts\\IArticleCategoryApplication.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\IArticleCategoryApplication.cs",
+              "RelativeToolTip": "BlogManagement.Application.Contracts\\IArticleCategoryApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:21:54.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArticleCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "RelativeToolTip": "BlogManagement.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:04:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateArticleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\CreateArticleCategory.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Application.Contracts\\CreateArticleCategory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\CreateArticleCategory.cs",
+              "RelativeToolTip": "BlogManagement.Application.Contracts\\CreateArticleCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:21:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\ArticleCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Application.Contracts\\ArticleCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\ArticleCategoryViewModel.cs",
+              "RelativeToolTip": "BlogManagement.Application.Contracts\\ArticleCategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:21:48.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticleCategorySearchModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\ArticleCategorySearchModel.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Application.Contracts\\ArticleCategorySearchModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\ArticleCategorySearchModel.cs",
+              "RelativeToolTip": "BlogManagement.Application.Contracts\\ArticleCategorySearchModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:21:46.123Z",
               "EditorCaption": ""
             }
           ]

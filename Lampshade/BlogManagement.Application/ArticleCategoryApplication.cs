@@ -1,0 +1,67 @@
+﻿using _0_Framework.Application;
+using BlogManagement.Application.Contract;
+using BlogManagement.Domain.ArticleCategoryAgg;
+
+namespace BlogManagement.Application
+{
+    public class ArticleCategoryApplication : IArticleCategoryApplication
+    {
+
+        private readonly IFileUploader _fileUploader;
+        private readonly IArticleCategoryRepository _articleCategoryRepository;
+
+        public ArticleCategoryApplication(IFileUploader fileUploader, IArticleCategoryRepository articleCategoryRepository)
+        {
+            _fileUploader = fileUploader;
+            _articleCategoryRepository = articleCategoryRepository;
+        }
+
+        public OperationResult Create(CreateArticleCategory command)
+        {
+            var operation = new OperationResult();
+
+            if (_articleCategoryRepository.Exists(x => x.Name == command.Name))
+                return operation.Failed(ApplicationMessage.DuplicatedRecord);
+
+            var slug = command.Slug.Slugify();
+            var pictureName = _fileUploader.Upload(command.Picture, slug);
+            var articleCategory = new ArticleCategory(command.Name, slug, pictureName, command.ShowOrder, command.Description
+                , command.Keywords, command.MetaDescription, command.CanonicalAddress);
+            _articleCategoryRepository.Create(articleCategory);
+            _articleCategoryRepository.SaveChanges();
+            return operation.Succedded();
+        }
+
+        public OperationResult Edit(EditArticleCategory command)
+        {
+            var operation = new OperationResult();
+
+            var articleCategory = _articleCategoryRepository.Get(command.Id);
+
+            if(articleCategory == null)
+                return operation.Failed(ApplicationMessage.RecordNotFound);
+
+            if (_articleCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
+                return operation.Failed(ApplicationMessage.RecordNotFound);
+
+            var slug = command.Slug.Slugify();
+            var pictureName = _fileUploader.Upload(command.Picture,slug);
+            articleCategory.Edit(command.Name,pictureName,command.Description
+                ,command.ShowOrder,slug,command.Keywords
+                ,command.MetaDescription,command.CanonicalAddress);
+
+            _articleCategoryRepository.SaveChanges();
+            return operation.Succedded();
+        }
+
+        public EditArticleCategory GetDetails(int id)
+        {
+            return _articleCategoryRepository.GetDetails(id);
+        }
+
+        public List<ArticleCategoryViewModel> Search(ArticleCategorySearchModel searchModel)
+        {
+            return _articleCategoryRepository.Search(searchModel);
+        }
+    }
+}
