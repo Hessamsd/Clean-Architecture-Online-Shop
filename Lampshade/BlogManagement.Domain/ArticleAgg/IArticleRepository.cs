@@ -1,10 +1,13 @@
-﻿using BlogManagement.Application.Contracts.Article;
+﻿using _0_Framework.Domain;
+using BlogManagement.Application.Contracts.Article;
 
 namespace BlogManagement.Domain.ArticleAgg
 {
-    public interface IArticleRepository
+    public interface IArticleRepository : IRepository<int,Article>
     {
         EditArticle GetDetails(int id);
         List<ArticleViewModel> Search(ArticleSearchModel searchModel);
+
+        Article GetWithCategory(int id);
     }
 }

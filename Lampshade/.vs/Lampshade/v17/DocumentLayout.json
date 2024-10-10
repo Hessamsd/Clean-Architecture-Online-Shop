@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88DA1B8F-FA58-4210-B046-549D27AD0056}|BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.infrastructure.efcore\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88DA1B8F-FA58-4210-B046-549D27AD0056}|BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj|solutionrelative:blogmanagement.infrastructure.efcore\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application.contracts\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|solutionrelative:blogmanagement.application.contracts\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application.contracts\\article\\articlesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|solutionrelative:blogmanagement.application.contracts\\article\\articlesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.application.contracts\\article\\articleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8497610-B5A1-4174-B355-37AEE6E40482}|BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj|solutionrelative:blogmanagement.application.contracts\\article\\articleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Infrastructure.EFCore\\Migrations\\20241010154505_Article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogManagement.Infrastructure.EFCore\\Migrations\\20241010154505_Article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\Article\\ArticleViewModel.cs",
-              "RelativeDocumentMoniker": "BlogManagement.Application.Contracts\\Article\\ArticleViewModel.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\Article\\ArticleViewModel.cs",
-              "RelativeToolTip": "BlogManagement.Application.Contracts\\Article\\ArticleViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:56:28.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArticleSearchModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\Article\\ArticleSearchModel.cs",
-              "RelativeDocumentMoniker": "BlogManagement.Application.Contracts\\Article\\ArticleSearchModel.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\Article\\ArticleSearchModel.cs",
-              "RelativeToolTip": "BlogManagement.Application.Contracts\\Article\\ArticleSearchModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:55:02.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateArticle.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\Article\\CreateArticle.cs",
-              "RelativeDocumentMoniker": "BlogManagement.Application.Contracts\\Article\\CreateArticle.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Application.Contracts\\Article\\CreateArticle.cs",
-              "RelativeToolTip": "BlogManagement.Application.Contracts\\Article\\CreateArticle.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:47:40.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "RelativeDocumentMoniker": "BlogManagement.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "RelativeToolTip": "BlogManagement.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAywD4AAAAAAAAA",
+              "Title": "20241010154505_Article.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Infrastructure.EFCore\\Migrations\\20241010154505_Article.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Infrastructure.EFCore\\Migrations\\20241010154505_Article.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Infrastructure.EFCore\\Migrations\\20241010154505_Article.cs",
+              "RelativeToolTip": "BlogManagement.Infrastructure.EFCore\\Migrations\\20241010154505_Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:42:08.009Z",
+              "WhenOpened": "2024-10-10T15:45:06.104Z",
               "EditorCaption": ""
             }
           ]

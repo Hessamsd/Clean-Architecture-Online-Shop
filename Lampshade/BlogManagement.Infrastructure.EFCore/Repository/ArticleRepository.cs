@@ -2,6 +2,7 @@
 using _0_Framework.Infrastructure;
 using BlogManagement.Application.Contracts.Article;
 using BlogManagement.Domain.ArticleAgg;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlogManagement.Infrastructure.EFCore.Repository
 {
@@ -10,7 +11,7 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
 
         private readonly BlogContext _context;
 
-        public ArticleRepository(BlogContext context) : base(context) 
+        public ArticleRepository(BlogContext context) : base(context)
         {
             _context = context;
         }
@@ -24,7 +25,6 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                 Description = a.Description,
                 MetaDescription = a.MetaDescription,
                 ShortDescription = a.ShortDescription,
-                Picture = a.Picture,
                 PictureAlt = a.PictureAlt,
                 PictureTitle = a.PictureTitle,
                 Keywords = a.Keywords,
@@ -36,21 +36,28 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
             }).FirstOrDefault(x => x.Id == id);
         }
 
+        public Article GetWithCategory(int id)
+        {
+            return _context.Articles.Include(x => x.Category).FirstOrDefault(x => x.Id == id);
+
+        }
+
         public List<ArticleViewModel> Search(ArticleSearchModel searchModel)
         {
-            var query = _context.Articles.Select(x => new ArticleViewModel { 
-            
-              Id = x.Id,
-              Title = x.Title,
-              ShortDescription = x.ShortDescription,
-              Category =  x.Category.Name,
-              PublishDate = x.PublishDate.ToFarsi(),
-              Picture = x.Picture,
-                                     
+            var query = _context.Articles.Select(x => new ArticleViewModel
+            {
+
+                Id = x.Id,
+                Title = x.Title,
+                ShortDescription = x.ShortDescription,
+                Category = x.Category.Name,
+                PublishDate = x.PublishDate.ToFarsi(),
+                Picture = x.Picture,
+
             });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Title))
-                query = query.Where(x=> x.Title.Contains(searchModel.Title));
+                query = query.Where(x => x.Title.Contains(searchModel.Title));
 
 
             if (searchModel.CategoryId > 0)
