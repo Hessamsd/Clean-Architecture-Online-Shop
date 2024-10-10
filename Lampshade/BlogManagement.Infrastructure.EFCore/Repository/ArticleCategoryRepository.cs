@@ -14,7 +14,17 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
         {
             _context = context;
         }
-            
+
+        public List<ArticleCategoryViewModel> GetArticleCategories()
+        {
+            return _context.ArticleCategories.Select(x => new ArticleCategoryViewModel
+            {
+
+                Id = x.Id,
+                Name = x.Name,
+
+            }).ToList();
+        }
 
         public EditArticleCategory GetDetails(int id)
         {
@@ -36,8 +46,8 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
 
         public string GetSlugBy(int id)
         {
-            
-            return _context.ArticleCategories.Select(x=> new { x.Id, x.Slug })
+
+            return _context.ArticleCategories.Select(x => new { x.Id, x.Slug })
                 .FirstOrDefault(x => x.Id == id).Slug;
         }
 
@@ -51,7 +61,7 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                     Description = x.Description,
                     Picture = x.Picture,
                     ShowOrder = x.ShowOrder,
-                    
+
                     CreationDate = x.CreationDate.ToFarsi()
                 });
 

@@ -6,9 +6,11 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
     public interface IArticleCategoryRepository : IRepository<int, ArticleCategory>
     {
 
-        EditArticleCategory GetDetails(int id);
-        List<ArticleCategoryViewModel> Search(ArticleCategorySearchModel searchModel);
         string GetSlugBy(int id);
+        EditArticleCategory GetDetails(int id);
+        List<ArticleCategoryViewModel> GetArticleCategories();
+        List<ArticleCategoryViewModel> Search(ArticleCategorySearchModel searchModel);
+
 
 
     }
