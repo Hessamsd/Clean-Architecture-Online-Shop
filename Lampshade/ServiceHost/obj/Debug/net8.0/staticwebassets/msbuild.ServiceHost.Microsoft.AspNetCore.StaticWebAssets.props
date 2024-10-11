@@ -5984,6 +5984,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPictures\اخبار-شرکت\مقاله-مربوط-به-اخبار-مالی-شرکت\2020-08-16-13-21-46-article 2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPictures\اخبار-شرکت\نحوه-چیدمان-دکوراسیون-خانه-مدرن\2024-10-11-10-55-12-10.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPictures/اخبار-شرکت/نحوه-چیدمان-دکوراسیون-خانه-مدرن/2024-10-11-10-55-12-10.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPictures\اخبار-شرکت\نحوه-چیدمان-دکوراسیون-خانه-مدرن\2024-10-11-10-55-12-10.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPictures\اخبار-شرکت\نحوه-چیدمان-دکوراسیون-خانه\2020-08-16-11-10-33-article1.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
