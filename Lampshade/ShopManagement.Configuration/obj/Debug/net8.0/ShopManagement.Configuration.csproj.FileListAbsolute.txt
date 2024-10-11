@@ -36,3 +36,9 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Conf
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net8.0\refint\ShopManagement.Configuration.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net8.0\ShopManagement.Configuration.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net8.0\ref\ShopManagement.Configuration.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net8.0\BlogManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net8.0\BlogManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net8.0\BlogManagement.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net8.0\BlogManagement.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.pdb

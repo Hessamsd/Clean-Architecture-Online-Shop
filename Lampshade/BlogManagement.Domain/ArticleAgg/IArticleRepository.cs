@@ -1,5 +1,5 @@
 ﻿using _0_Framework.Domain;
-using BlogManagement.Application.Contracts.Article;
+using BlogManagement.Application.Contracts.Articles;
 
 namespace BlogManagement.Domain.ArticleAgg
 {

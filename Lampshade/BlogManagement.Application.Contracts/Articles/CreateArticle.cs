@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 
-namespace BlogManagement.Application.Contracts.Article
+namespace BlogManagement.Application.Contracts.Articles
 {
     public class CreateArticle
     {

@@ -1,4 +1,4 @@
-using BlogManagement.Application.Contracts.Article;
+using BlogManagement.Application.Contracts.Articles;
 using BlogManagement.Application.Contracts.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -24,7 +24,7 @@ namespace ServiceHost.Areas.Administration.Pages.Blog.Articles
         public void OnGet(int id)
         {
             Command = _articleApplication.GetDetails(id);
-            ArticleCategories = new SelectList(_articleCategoryApplication.GetArticleCategories(), "Id", "Name");
+            ArticleCategories = new SelectList(_articleCategoryApplication.GetArticleCategories(),"Id","Name");
         }
 
         public IActionResult OnPost(EditArticle command)

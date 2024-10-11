@@ -1,6 +1,6 @@
 ﻿using BlogManagement.Application.Contracts.ArticleCategory;
 
-namespace BlogManagement.Application.Contracts.Article
+namespace BlogManagement.Application.Contracts.Articles
 {
     public class ArticleSearchModel
     {

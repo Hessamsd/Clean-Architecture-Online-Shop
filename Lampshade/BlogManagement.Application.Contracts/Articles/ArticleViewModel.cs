@@ -1,4 +1,4 @@
-﻿namespace BlogManagement.Application.Contracts.Article
+﻿namespace BlogManagement.Application.Contracts.Articles
 {
     public class ArticleViewModel
     {

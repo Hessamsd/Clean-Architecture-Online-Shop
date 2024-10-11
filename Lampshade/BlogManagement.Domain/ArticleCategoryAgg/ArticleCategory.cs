@@ -22,7 +22,7 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
 
         public ArticleCategory(string name, string picture, string pictureAlt
             ,string pictureTitle, string description, int showOrder
-            , string slug, string keywords, string metaDescription /*string canonicalAddress*/)
+            , string slug, string keywords, string metaDescription, string canonicalAddress)
         {
             Name = name;
             Picture = picture;
@@ -33,12 +33,12 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;
-            //CanonicalAddress = canonicalAddress;
+            CanonicalAddress = canonicalAddress;
         }
 
         public void Edit(string name, string picture, string pictureAlt
             , string pictureTitle, string description, int showOrder
-            , string slug, string keywords, string metaDescription/*, string canonicalAddress*/)
+            , string slug, string keywords, string metaDescription, string canonicalAddress)
         {
             Name = name;
 
@@ -52,7 +52,7 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;
-            //CanonicalAddress = canonicalAddress;
+            CanonicalAddress = canonicalAddress;
         }
     }
 }

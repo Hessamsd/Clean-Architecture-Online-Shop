@@ -1,6 +1,6 @@
 ﻿using _0_Framework.Application;
 
-namespace BlogManagement.Application.Contracts.Article
+namespace BlogManagement.Application.Contracts.Articles
 {
     public interface IArticleApplication
     {

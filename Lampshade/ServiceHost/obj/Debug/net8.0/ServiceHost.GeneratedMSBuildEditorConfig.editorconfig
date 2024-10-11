@@ -30,16 +30,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQmxvZ1xBcnRpY2xlQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Areas/Administration/Pages/Blog/Article/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQmxvZ1xBcnRpY2xlXENyZWF0ZS5jc2h0bWw=
+[C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Areas/Administration/Pages/Blog/Articles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQmxvZ1xBcnRpY2xlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Areas/Administration/Pages/Blog/Article/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQmxvZ1xBcnRpY2xlXEVkaXQuY3NodG1s
+[C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Areas/Administration/Pages/Blog/Articles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQmxvZ1xBcnRpY2xlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Areas/Administration/Pages/Blog/Article/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQmxvZ1xBcnRpY2xlXEluZGV4LmNzaHRtbA==
+[C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Areas/Administration/Pages/Blog/Articles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQmxvZ1xBcnRpY2xlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Areas/Administration/Pages/Discounts/ColleagueDiscounts/Create.cshtml]
@@ -192,6 +192,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Pages/Shared/Components/LatestArrivals/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcTGF0ZXN0QXJyaXZhbHNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Pages/Shared/Components/LatestArticle/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcTGF0ZXN0QXJ0aWNsZVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Administrator/Desktop/Atriya Project/Code/Lampshade/ServiceHost/Pages/Shared/Components/Menu/Default.cshtml]
