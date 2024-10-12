@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D9F5435-56DA-40CE-876E-969652320FD6}|BlogManagement.Infrastructure.Configure\\BlogManagement.Infrastructure.Configuration.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\blogmanagement.infrastructure.configure\\blogmanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D9F5435-56DA-40CE-876E-969652320FD6}|BlogManagement.Infrastructure.Configure\\BlogManagement.Infrastructure.Configuration.csproj|solutionrelative:blogmanagement.infrastructure.configure\\blogmanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\articlecategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\articlecategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\article.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\article.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\articlecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\articlecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\article.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\article.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\pages\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleCategory.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\ArticleCategory.cshtml.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\ArticleCategory.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\ArticleCategory.cshtml.cs",
+              "RelativeToolTip": "ServiceHost\\Pages\\ArticleCategory.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:55:43.426Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -34,41 +47,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlogManagementBootstrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Infrastructure.Configure\\BlogManagementBootstrapper.cs",
-              "RelativeDocumentMoniker": "BlogManagement.Infrastructure.Configure\\BlogManagementBootstrapper.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\BlogManagement.Infrastructure.Configure\\BlogManagementBootstrapper.cs",
-              "RelativeToolTip": "BlogManagement.Infrastructure.Configure\\BlogManagementBootstrapper.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAxwCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:13:14.555Z",
+              "DocumentIndex": 1,
+              "Title": "ArticleCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\ArticleCategory.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\ArticleCategory.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\ArticleCategory.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\ArticleCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T06:55:21.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Article.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Article.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Article.cshtml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Article.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Pages\\Article.cshtml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:48:47.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Article.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Article.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Article.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Article.cshtml",
-              "RelativeToolTip": "ServiceHost\\Pages\\Article.cshtml",
-              "ViewState": "AQIAAPYAAAAAAAAAAAAAAAQBAAAtAAAA",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T15:48:03.694Z",
+              "WhenOpened": "2024-10-12T06:39:08.261Z",
               "EditorCaption": ""
             }
           ]

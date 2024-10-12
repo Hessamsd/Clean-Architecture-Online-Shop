@@ -33,7 +33,7 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 Name = x.Name,
                 Description = x.Description,
-                //CanonicalAddress = x.CanonicalAddress,
+                CanonicalAddress = x.CanonicalAddress,
                 MetaDescription = x.MetaDescription,
                 Slug = x.Slug,
                 Keywords = x.Keywords,
@@ -53,7 +53,7 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
 
         public List<ArticleCategoryViewModel> Search(ArticleCategorySearchModel searchModel)
         {
-            var query = _context.ArticleCategories
+            var query = _context.ArticleCategories.Include(x=> x.Articles)
                 .Select(x => new ArticleCategoryViewModel
                 {
                     Id = x.Id,
@@ -61,8 +61,8 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
                     Description = x.Description,
                     Picture = x.Picture,
                     ShowOrder = x.ShowOrder,
-
-                    CreationDate = x.CreationDate.ToFarsi()
+                    CreationDate = x.CreationDate.ToFarsi(),
+                    ArticlesCount = x.Articles.Count,
                 });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
