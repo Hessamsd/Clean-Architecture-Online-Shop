@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bsMxBjJgHCQNcXlIsx6kghmT+NUKZY82/GY+KEdV6kI=",
+  "Hash": "We4v2Vfn18aDgdks6MnE1unSfH8MrFWdxeWkDzeN4Is=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -7140,6 +7140,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-11-16-42-49-20.png"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-13-16-13-33-2.png",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/اخبار-شرکت/2024-10-13-16-13-33-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\اخبار-شرکت\\2024-10-13-16-13-33-2.png"
     },
     {
       "Identity": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\اخبار-شرکت\\بهترین-استفاده-از-فضای-خانه\\2020-08-16-13-24-17-article 3.jpg",

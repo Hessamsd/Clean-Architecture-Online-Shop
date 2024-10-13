@@ -36,7 +36,7 @@ namespace _01_LampshadeQuery.Query
 
         public ArticleCategoryQueryModel GetArticleCategory(string slug)
         {
-            return _context.ArticleCategories
+            var articleCategory = _context.ArticleCategories
                 .Include(x => x.Articles)
                 .Select(x => new ArticleCategoryQueryModel
                 {
@@ -49,9 +49,15 @@ namespace _01_LampshadeQuery.Query
                     Keywords = x.Keywords,
                     MetaDescription = x.MetaDescription,
                     CanonicalAddress = x.CanonicalAddress,
+                    ArticlesCount = x.Articles.Count,
                     Articles = MapArticles(x.Articles),
 
-                }).FirstOrDefault();
+                }).FirstOrDefault(x=> x.Slug == slug);
+
+            if(!string.IsNullOrWhiteSpace(articleCategory.Keywords))
+            articleCategory.KeywordList = articleCategory.Keywords.Split(",").ToList();
+
+            return articleCategory;
         }
 
         private static List<ArticleQueryModel> MapArticles(List<Article> articles)

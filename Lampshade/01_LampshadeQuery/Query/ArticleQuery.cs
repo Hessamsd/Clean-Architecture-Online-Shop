@@ -38,6 +38,7 @@ namespace _01_LampshadeQuery.Query
 
                 }).FirstOrDefault(x => x.Slug == slug);
 
+            if(!string.IsNullOrWhiteSpace(article.Keywords))
             article.KeywordList = article.Keywords.Split(",").ToList();
 
             return article;
