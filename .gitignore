@@ -7,3 +7,5 @@
 /Lampshade/.vs/Lampshade/FileContentIndex/64a74c51-0e5e-4893-9184-f70b038e6f6a.vsidx
 /Lampshade/.vs/Lampshade/FileContentIndex/f75fdd12-ff54-4376-9de5-88f5fb8cbcbf.vsidx
 .vs/
+**/bin/
+**/obj/
