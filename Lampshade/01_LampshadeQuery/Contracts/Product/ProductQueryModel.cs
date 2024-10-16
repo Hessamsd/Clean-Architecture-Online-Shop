@@ -27,20 +27,4 @@
 
 
     }
-
-    public class ProductPictureQueryModel
-    {
-        public int ProductId { get; set; }
-        public string Picture { get; set; }
-        public string PictureAlt { get; set; }
-        public string PictureTitle { get; set; }
-        public bool IsRemoved { get; set; }
-    }
-
-    public class CommentQueryModel
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Message { get; set; }
-    }
 }

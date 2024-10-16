@@ -15,18 +15,16 @@ namespace CommentManagement.Domain.CommentAgg
         public int Type { get; private set; }
         public int ParentId { get; private set; }
         public Comment Parent { get; private set; }
-        public List<Comment> Children { get; private set; }
 
-
-        public Comment(string name, string email,string website, string message, int ownerRecordId, int type,int parentid)
+        public Comment(string name, string email, string webSite, string message, int ownerRecordId, int type, int parentId)
         {
             Name = name;
             Email = email;
-            WebSite = website;
+            WebSite = webSite;
             Message = message;
             OwnerRecordId = ownerRecordId;
             Type = type;
-            ParentId = parentid;
+            ParentId = parentId;
         }
 
         public void Confirm()

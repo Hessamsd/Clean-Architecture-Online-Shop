@@ -250,7 +250,7 @@
                                                  aria-labelledby="review-tab">
                                                 <div class="product-rating-wrap">
                                                     <div class="rating-list">
-                                                        @*                                                         <div class="sin-list float-right">
+                                                        @*<div class="sin-list float-right">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -290,7 +290,7 @@
                                                         <i class="fa fa-star-o"></i>
                                                         <span>(0)</span>
                                                         </div> *@
-                                                    </div>
+                                               @*      </div>
                                                     <div class="ratings-wrapper">
                                                         <div class="sin-ratings">
                                                             <div class="rating-author">
@@ -311,7 +311,7 @@
                                                                 quisquam est, qui dolorem ipsum quia dolor sit
                                                                 amet, consectetur, adipisci veli
                                                             </p>
-                                                        </div>
+                                                        </div> *@
                                                         @foreach (var comment in Model.Product.Comments)
                                                         {
                                                             <div class="sin-ratings">
@@ -348,7 +348,8 @@
                                                                     <textarea name="message" id="message"
                                                                               placeholder="نظر خود را بنویسید....."></textarea>
                                                                 </div>
-                                                                <input type="hidden" name="productId" value="@Model.Product.Id" />
+                                                                <input type="hidden" name="OwnerRecordId" value="@Model.Product.Id" />
+                                                               @*  <input name="type" value="@CommentManagement.Infrastructure.EFCore.CommentType.Product"></input> *@
                                                                 <input type="hidden" name="productSlug" value="@Model.Product.Slug" />
                                                                 <div class="col-12">
                                                                     <input value="ارسال" type="submit">
