@@ -1,8 +1,8 @@
 using _0_Framework.Application;
 using BlogManagement.Infrastructure.Configuration;
+using CommentManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrustructure.Configuration;
-using ServiceHost.Pages.Shop.ProductCategories;
 using ShopManagement.Configuration;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
@@ -24,6 +24,7 @@ namespace ServiceHost
             DiscountManagementBootstrapper.Configure(builder.Services,connectiostring);
             InventoryManagementBootstrapper.Configure(builder.Services, connectiostring);
             BlogManagementBootstrapper.Configure(builder.Services,connectiostring);
+            CommentManagementBootstrapper.Configure(builder.Services,connectiostring);
 
             builder.Services.AddTransient<IFileUploader, FileUploader>();
 

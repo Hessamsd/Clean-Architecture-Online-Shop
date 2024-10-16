@@ -1,6 +1,6 @@
 ﻿using _0_Framework.Application;
 
-namespace ShopManagement.Application.Contracts.Comment
+namespace CommentManagement.Application.Contracts.Comment
 {
     public interface ICommentApplication
     {
@@ -10,3 +10,4 @@ namespace ShopManagement.Application.Contracts.Comment
         List<CommentViewModel> Search(CommentSearchModel searchModel);
     }
 }
+
