@@ -4,6 +4,8 @@ using DiscountManagement.Configuration;
 using InventoryManagement.Infrustructure.Configuration;
 using ServiceHost.Pages.Shop.ProductCategories;
 using ShopManagement.Configuration;
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
 
 namespace ServiceHost
 {
@@ -24,6 +26,9 @@ namespace ServiceHost
             BlogManagementBootstrapper.Configure(builder.Services,connectiostring);
 
             builder.Services.AddTransient<IFileUploader, FileUploader>();
+
+
+            builder.Services.AddSingleton(HtmlEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Arabic));
 
             var app = builder.Build();
 

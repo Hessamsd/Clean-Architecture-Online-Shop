@@ -2,6 +2,9 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\b
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\01_LampshadeQuery.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\01_LampshadeQuery.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\0_Framework.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\DiscountManagement.Application.Contract.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\DiscountManagement.Domain.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.dll
@@ -11,10 +14,13 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\b
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\ShopManagement.Domain.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\0_Framework.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Domain.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\DiscountManagement.Application.Contract.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\DiscountManagement.Domain.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\InventoryManagement.Application.Contract.pdb
@@ -32,9 +38,3 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\o
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net8.0\refint\01_LampshadeQuery.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net8.0\01_LampshadeQuery.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net8.0\ref\01_LampshadeQuery.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Application.Contracts.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Domain.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Application.Contracts.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net8.0\BlogManagement.Domain.pdb
