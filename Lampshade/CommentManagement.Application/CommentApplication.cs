@@ -17,8 +17,8 @@ namespace CommentManagement.Application
         {
             var operation = new OperationResult();
 
-            var comment = new Comment(command.Name,command.Email,command.Message,command.Message
-                ,command.OwnerRecordId,command.type,command.ParentId);
+            var comment = new Comment(command.Name,command.Email,command.WebSite
+                ,command.Message,command.OwnerRecordId,command.type,command.ParentId);
 
             _commentRepository.Create(comment);
             _commentRepository.SaveChanges();

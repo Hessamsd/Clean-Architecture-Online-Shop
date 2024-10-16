@@ -1,8 +1,10 @@
-﻿namespace _01_LampshadeQuery.Contracts.Product
+﻿using _01_LampshadeQuery.Contracts.Comment;
+
+namespace _01_LampshadeQuery.Contracts.Product
 {
     public class ProductQueryModel
     {
-        public long Id { get; set; }
+        public int Id { get; set; }
         public string Picture { get; set; }
         public string PictureAlt { get; set; }
         public string PictureTitle { get; set; }

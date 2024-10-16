@@ -1,6 +1,4 @@
-﻿using System.Net.Http.Headers;
-
-namespace CommentManagement.Infrastructure.EFCore
+﻿namespace CommentManagement.Infrastructure.EFCore
 {
     public static class CommentType
     {
@@ -9,3 +7,4 @@ namespace CommentManagement.Infrastructure.EFCore
         public const int Article = 2;
     }
 }
+

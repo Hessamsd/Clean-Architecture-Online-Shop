@@ -1,4 +1,5 @@
 ﻿using _0_Framework.Application;
+using _01_LampshadeQuery.Contracts.Comment;
 using _01_LampshadeQuery.Contracts.Product;
 using CommentManagement.Infrastructure.EFCore;
 using DiscountManagement.Infrastructure.EFCore;
@@ -88,13 +89,12 @@ namespace _01_LampshadeQuery.Query
                 .Where(x => x.OwnerRecordId == product.Id)
                 .Select(x => new CommentQueryModel
                 {
-
                     Id = x.Id,
                     Message = x.Message,
                     Name = x.Name,
+                    CreationDate = x.CreationDate.ToFarsi()
 
-
-                }).OrderByDescending(x=> x.Id).ToList();
+                }).OrderByDescending(x => x.Id).ToList();
 
             return product;
         }
