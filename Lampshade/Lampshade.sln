@@ -89,15 +89,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CM.Application", "CM.Applic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CM.Domain", "CM.Domain", "{EE3650A5-ABE8-45F4-AF30-8CF33D714A0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Domain", "CommentManagement.Domain\CommentManagement.Domain.csproj", "{011E8020-3F27-4D4A-942F-4FF1B76F254D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommentManagement.Domain", "CommentManagement.Domain\CommentManagement.Domain.csproj", "{011E8020-3F27-4D4A-942F-4FF1B76F254D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Application", "CommentManagement.Application\CommentManagement.Application.csproj", "{F24FB350-A42A-4CBC-A8C9-88475C032ED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommentManagement.Application", "CommentManagement.Application\CommentManagement.Application.csproj", "{F24FB350-A42A-4CBC-A8C9-88475C032ED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Application.Contract", "CommentManagement.Application.Contract\CommentManagement.Application.Contract.csproj", "{4C4C3143-6FE2-4849-86D0-1C7E7EF2B6D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommentManagement.Application.Contract", "CommentManagement.Application.Contract\CommentManagement.Application.Contract.csproj", "{4C4C3143-6FE2-4849-86D0-1C7E7EF2B6D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Infrastructure.EFCore", "CommentManagement.Infrastructure.EFCore\CommentManagement.Infrastructure.EFCore.csproj", "{3505EDAA-6A5A-4690-BD82-345FAABC8B93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommentManagement.Infrastructure.EFCore", "CommentManagement.Infrastructure.EFCore\CommentManagement.Infrastructure.EFCore.csproj", "{3505EDAA-6A5A-4690-BD82-345FAABC8B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentManagement.Infrastructure.Configuration", "CommentManagement.Infrastructure.Configuration\CommentManagement.Infrastructure.Configuration.csproj", "{A9D8B0C3-4440-4007-A123-CBF69B62B46A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommentManagement.Infrastructure.Configuration", "CommentManagement.Infrastructure.Configuration\CommentManagement.Infrastructure.Configuration.csproj", "{A9D8B0C3-4440-4007-A123-CBF69B62B46A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AcountManagement", "AcountManagement", "{E23CE1B7-83C7-4DDE-9CA8-5EB8CE25A0F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AM.Domain", "AM.Domain", "{45E0E765-3204-4912-8D4A-08D83F3067B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AM.Application", "AM.Application", "{D33FAB7B-0A5C-4F8E-A1CE-87EFA869583A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AM.Infrastructure", "AM.Infrastructure", "{BE7932BE-93A0-4925-B1AA-B9FFEA521342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcountManagement.Infrastructure.EFCore", "AcountManagement.Infrastructure.EFCore\AcountManagement.Infrastructure.EFCore.csproj", "{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Domain", "AcountManagement.Domain\AccountManagement.Domain.csproj", "{E4B644BD-CEFB-4567-9703-4D81B8858297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Application.Contract", "AccountManagement.Application.Contract\AccountManagement.Application.Contract.csproj", "{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -217,6 +231,18 @@ Global
 		{A9D8B0C3-4440-4007-A123-CBF69B62B46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9D8B0C3-4440-4007-A123-CBF69B62B46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9D8B0C3-4440-4007-A123-CBF69B62B46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B644BD-CEFB-4567-9703-4D81B8858297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B644BD-CEFB-4567-9703-4D81B8858297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B644BD-CEFB-4567-9703-4D81B8858297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B644BD-CEFB-4567-9703-4D81B8858297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -262,6 +288,12 @@ Global
 		{4C4C3143-6FE2-4849-86D0-1C7E7EF2B6D5} = {AC3ECF9C-D532-4094-B7C9-16C212384F9A}
 		{3505EDAA-6A5A-4690-BD82-345FAABC8B93} = {67E7C9CC-BCD6-4903-8EC9-C442671AF3F8}
 		{A9D8B0C3-4440-4007-A123-CBF69B62B46A} = {67E7C9CC-BCD6-4903-8EC9-C442671AF3F8}
+		{45E0E765-3204-4912-8D4A-08D83F3067B9} = {E23CE1B7-83C7-4DDE-9CA8-5EB8CE25A0F1}
+		{D33FAB7B-0A5C-4F8E-A1CE-87EFA869583A} = {E23CE1B7-83C7-4DDE-9CA8-5EB8CE25A0F1}
+		{BE7932BE-93A0-4925-B1AA-B9FFEA521342} = {E23CE1B7-83C7-4DDE-9CA8-5EB8CE25A0F1}
+		{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA} = {BE7932BE-93A0-4925-B1AA-B9FFEA521342}
+		{E4B644BD-CEFB-4567-9703-4D81B8858297} = {45E0E765-3204-4912-8D4A-08D83F3067B9}
+		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A} = {D33FAB7B-0A5C-4F8E-A1CE-87EFA869583A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC3ADF1E-F4F0-4143-8383-33195F83B961}
