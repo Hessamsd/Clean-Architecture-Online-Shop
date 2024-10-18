@@ -1,4 +1,5 @@
 using _0_Framework.Application;
+using AccountManagement.Infrastructure.Configurarion;
 using BlogManagement.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
@@ -25,11 +26,15 @@ namespace ServiceHost
             InventoryManagementBootstrapper.Configure(builder.Services, connectiostring);
             BlogManagementBootstrapper.Configure(builder.Services,connectiostring);
             CommentManagementBootstrapper.Configure(builder.Services,connectiostring);
+            AccountManagementBootstrapper.Configure(builder.Services,connectiostring);
+
+
+
 
             builder.Services.AddTransient<IFileUploader, FileUploader>();
-
-
+            builder.Services.AddSingleton<IPasswordHasher,PasswordHasher>();
             builder.Services.AddSingleton(HtmlEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Arabic));
+
 
             var app = builder.Build();
 

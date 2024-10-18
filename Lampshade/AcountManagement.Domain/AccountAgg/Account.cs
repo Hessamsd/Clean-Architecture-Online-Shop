@@ -11,6 +11,8 @@ namespace AccountManagement.Domain.AccountAgg
         public int RoleId { get; private set; }
         public string ProfilePhoto { get; private set; }
 
+        public Account() { }
+
         public Account(string fullName, string userName, string password,
             string mobile, int roleId, string profilePhotho)
         {

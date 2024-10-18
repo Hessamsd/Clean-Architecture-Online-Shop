@@ -9,6 +9,6 @@ namespace AccountManagement.Application.Contract.Account
         public string Password { get; set; }
         public string Mobile { get; set; }
         public int RoleId { get; set; }
-        public IFormFile ProfilePhotho { get; set; }
+        public IFormFile ProfilePhoto { get; set; }
     }
 }

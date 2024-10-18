@@ -107,11 +107,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AM.Application", "AM.Applic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AM.Infrastructure", "AM.Infrastructure", "{BE7932BE-93A0-4925-B1AA-B9FFEA521342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcountManagement.Infrastructure.EFCore", "AcountManagement.Infrastructure.EFCore\AcountManagement.Infrastructure.EFCore.csproj", "{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcountManagement.Infrastructure.EFCore", "AcountManagement.Infrastructure.EFCore\AcountManagement.Infrastructure.EFCore.csproj", "{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Domain", "AcountManagement.Domain\AccountManagement.Domain.csproj", "{E4B644BD-CEFB-4567-9703-4D81B8858297}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountManagement.Domain", "AcountManagement.Domain\AccountManagement.Domain.csproj", "{E4B644BD-CEFB-4567-9703-4D81B8858297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Application.Contract", "AccountManagement.Application.Contract\AccountManagement.Application.Contract.csproj", "{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountManagement.Application.Contract", "AccountManagement.Application.Contract\AccountManagement.Application.Contract.csproj", "{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Infrastructure.Configurarion", "AccountManagement.Infrastructure.Configurarion\AccountManagement.Infrastructure.Configurarion.csproj", "{9535BEBB-9550-4305-AF97-C2DF5109542E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Application", "AccountManagement.Application\AccountManagement.Application.csproj", "{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +247,14 @@ Global
 		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9535BEBB-9550-4305-AF97-C2DF5109542E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9535BEBB-9550-4305-AF97-C2DF5109542E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9535BEBB-9550-4305-AF97-C2DF5109542E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9535BEBB-9550-4305-AF97-C2DF5109542E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -294,6 +306,8 @@ Global
 		{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA} = {BE7932BE-93A0-4925-B1AA-B9FFEA521342}
 		{E4B644BD-CEFB-4567-9703-4D81B8858297} = {45E0E765-3204-4912-8D4A-08D83F3067B9}
 		{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A} = {D33FAB7B-0A5C-4F8E-A1CE-87EFA869583A}
+		{9535BEBB-9550-4305-AF97-C2DF5109542E} = {BE7932BE-93A0-4925-B1AA-B9FFEA521342}
+		{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC} = {D33FAB7B-0A5C-4F8E-A1CE-87EFA869583A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC3ADF1E-F4F0-4143-8383-33195F83B961}
