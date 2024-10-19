@@ -7,6 +7,9 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infr
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\BlogManagement.Application.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\BlogManagement.Domain.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Application.Contract.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Infrastructure.EFCore.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\DiscountManagement.Application.Contract.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\DiscountManagement.Domain.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.dll
@@ -22,6 +25,9 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infr
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\BlogManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\0_Framework.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\BlogManagement.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Application.Contract.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Infrastructure.EFCore.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\DiscountManagement.Application.Contract.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\DiscountManagement.Domain.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.pdb
@@ -42,9 +48,3 @@ C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infr
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\obj\Debug\net8.0\refint\BlogManagement.Infrastructure.Configuration.dll
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\obj\Debug\net8.0\BlogManagement.Infrastructure.Configuration.pdb
 C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\obj\Debug\net8.0\ref\BlogManagement.Infrastructure.Configuration.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Application.Contract.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Domain.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Infrastructure.EFCore.dll
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Application.Contract.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Domain.pdb
-C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Infrastructure.Configure\bin\Debug\net8.0\CommentManagement.Infrastructure.EFCore.pdb
