@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Migrations\\20241018083210_AddAcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcountManagement.Infrastructure.EFCore\\Migrations\\20241018083210_AddAcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\accounts\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\accounts\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B644BD-CEFB-4567-9703-4D81B8858297}|AcountManagement.Domain\\AccountManagement.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\acountmanagement.domain\\accountagg\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4B644BD-CEFB-4567-9703-4D81B8858297}|AcountManagement.Domain\\AccountManagement.Domain.csproj|solutionrelative:acountmanagement.domain\\accountagg\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\accounts\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\accounts\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\accounts\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\accounts\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\acountmanagement.infrastructure.efcore\\mapping\\accountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|solutionrelative:acountmanagement.infrastructure.efcore\\mapping\\accountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}|AccountManagement.Application\\AccountManagement.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\accountmanagement.application\\accountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}|AccountManagement.Application\\AccountManagement.Application.csproj|solutionrelative:accountmanagement.application\\accountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\acountmanagement.infrastructure.efcore\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|solutionrelative:acountmanagement.infrastructure.efcore\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\accounts\\account\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\accounts\\account\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,71 +31,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241018083210_AddAcount.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Migrations\\20241018083210_AddAcount.cs",
-              "RelativeDocumentMoniker": "AcountManagement.Infrastructure.EFCore\\Migrations\\20241018083210_AddAcount.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Migrations\\20241018083210_AddAcount.cs",
-              "RelativeToolTip": "AcountManagement.Infrastructure.EFCore\\Migrations\\20241018083210_AddAcount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:32:10.581Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Create.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T11:04:56.979Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Domain\\AccountAgg\\Account.cs",
-              "RelativeDocumentMoniker": "AcountManagement.Domain\\AccountAgg\\Account.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Domain\\AccountAgg\\Account.cs",
-              "RelativeToolTip": "AcountManagement.Domain\\AccountAgg\\Account.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:31:43.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
-              "RelativeToolTip": "ServiceHost\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:31:06.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Mapping\\AccountMapping.cs",
-              "RelativeDocumentMoniker": "AcountManagement.Infrastructure.EFCore\\Mapping\\AccountMapping.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Mapping\\AccountMapping.cs",
-              "RelativeToolTip": "AcountManagement.Infrastructure.EFCore\\Mapping\\AccountMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:24:34.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AccountManagement.Application\\AccountApplication.cs",
-              "RelativeDocumentMoniker": "AccountManagement.Application\\AccountApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AccountManagement.Application\\AccountApplication.cs",
-              "RelativeToolTip": "AccountManagement.Application\\AccountApplication.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwCwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:18:04.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -115,15 +51,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "RelativeDocumentMoniker": "AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "RelativeToolTip": "AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAGQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T11:02:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml.cs",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\Index.cshtml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T08:09:40.259Z",
+              "WhenOpened": "2024-10-19T10:53:11.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Account\\ChangePassword.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:52:10.07Z",
               "EditorCaption": ""
             }
           ]

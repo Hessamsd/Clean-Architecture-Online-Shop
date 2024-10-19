@@ -9,5 +9,6 @@
         public int RoleId { get; set; }
         public string Role { get; set; }
         public string ProfilePhotho { get; set; }
+        public string CreationDate { get; set; }
     }
 }
