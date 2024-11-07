@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlogManagement.Domain
-build_property.ProjectDir = C:\Users\Administrator\Desktop\Atriya Project\Code\Lampshade\BlogManagement.Domain\
+build_property.ProjectDir = C:\Users\Administrator\Desktop\Pr\Atriya Project\Code\Lampshade\BlogManagement.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

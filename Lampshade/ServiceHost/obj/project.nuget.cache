@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJazv7hOEYM=",
+  "dgSpecHash": "tE46mWh+WJA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ServiceHost\\ServiceHost.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -33,7 +33,7 @@ namespace ServiceHost.Pages
                 return RedirectToPage("/Index");
 
             LoginMessage = result.Message;
-            return RedirectToPage("/Login");
+            return RedirectToPage("/Account");
 
         }
 

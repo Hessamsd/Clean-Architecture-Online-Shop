@@ -21,7 +21,7 @@ namespace AccountManagement.Application.Contract.Account
              
         public int RoleId { get; set; }
 
-        public IFormFile ProfilePhoto { get; set; }
+        public IFormFile? ProfilePhoto { get; set; }
         public List<RoleViewModel> Roles { get; set; }
     }
 }

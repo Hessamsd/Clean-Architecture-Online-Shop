@@ -1,4 +1,5 @@
 using _0_Framework.Application;
+using _0_Framework.Infrastructure;
 using AccountManagement.Infrastructure.Configurarion;
 using BlogManagement.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
@@ -52,6 +53,34 @@ namespace ServiceHost
                     o.AccessDeniedPath = new PathString("/AccessDenied");
 
                 });
+
+
+            builder.Services.AddAuthorization(option =>
+            {
+
+                option.AddPolicy("AdminArea",
+                builder => builder.RequireRole(new List<string> { Roles.Administator, Roles.SystemUser }));
+
+
+                option.AddPolicy("Shop",
+
+                    builder => builder.RequireRole(new List<string> { Roles.Administator }));
+
+            });
+
+
+            builder.Services.AddRazorPages()
+                .AddRazorPagesOptions(option => {
+
+                    option.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
+                    option.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
+                
+                
+                });
+
+
+
+
 
 
             var app = builder.Build();

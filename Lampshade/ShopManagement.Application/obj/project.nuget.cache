@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iljngh+sgAg=",
+  "dgSpecHash": "El0SQiT6RDQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application\\ShopManagement.Application.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ShopManagement.Application\\ShopManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
