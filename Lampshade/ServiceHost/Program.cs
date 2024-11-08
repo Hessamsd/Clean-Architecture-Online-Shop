@@ -107,6 +107,7 @@ namespace ServiceHost
             app.UseAuthorization();
 
             app.MapRazorPages();
+            //app.MapControllers();
             app.MapDefaultControllerRoute();
             app.Run();
         }
