@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E01154C-B252-46AF-BCA9-AAD7EA0AD31D}|BlogManagement.Persentation.Api\\BlogManagement.Persentation.Api.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\blogmanagement.persentation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E01154C-B252-46AF-BCA9-AAD7EA0AD31D}|BlogManagement.Persentation.Api\\BlogManagement.Persentation.Api.csproj|solutionrelative:blogmanagement.persentation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -20,19 +20,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
-              "RelativeToolTip": "ServiceHost\\Program.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAQwGwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:29:27.497Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -51,15 +38,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ServiceHost\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Program.cs",
+              "RelativeToolTip": "ServiceHost\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:27:16.207Z",
+              "WhenOpened": "2024-11-11T16:07:26.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\BlogManagement.Persentation.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BlogManagement.Persentation.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\BlogManagement.Persentation.Api\\Program.cs",
+              "RelativeToolTip": "BlogManagement.Persentation.Api\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:06:17.603Z",
               "EditorCaption": ""
             }
           ]

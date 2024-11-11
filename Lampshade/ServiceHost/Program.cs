@@ -5,8 +5,10 @@ using BlogManagement.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrustructure.Configuration;
+using InventoryManagement.Presentation.Api;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using ShopManagement.Configuration;
+using ShopManagement.Presentation.Api;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
 
@@ -70,13 +72,15 @@ namespace ServiceHost
 
 
             builder.Services.AddRazorPages()
-                .AddRazorPagesOptions(option => {
+                .AddRazorPagesOptions(option =>
+                {
 
                     option.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
                     option.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
-                
-                
-                });
+
+
+                }).AddApplicationPart(typeof(ProductController).Assembly)
+                .AddApplicationPart(typeof(InventoryController).Assembly);
 
 
 
@@ -107,7 +111,7 @@ namespace ServiceHost
             app.UseAuthorization();
 
             app.MapRazorPages();
-            //app.MapControllers();
+            app.MapControllers();
             app.MapDefaultControllerRoute();
             app.Run();
         }
