@@ -8,5 +8,7 @@
         void Signin(AuthViewModel account);
 
         string CurrenrAccountRole();
+
+        AuthViewModel CurrentAcountInfo();
     }
 }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authentication;
+﻿using _0_Framework.Infrastructure;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Http;
 using System.Security.Claims;
@@ -24,6 +25,27 @@ namespace _0_Framework.Application
             return null;
         }
 
+        public AuthViewModel CurrentAcountInfo()
+        {
+            var result = new AuthViewModel();
+
+            if (!IsAuthenticated())
+                return result;
+
+
+            var claims = _contextAccessor.HttpContext.User.Claims.ToList();
+
+            result.Id = int.Parse(claims.FirstOrDefault(x => x.Type == "AccountId").Value);
+            result.UserName = claims.FirstOrDefault(x => x.Type == "Username").Value;
+            result.RoleId = int.Parse(claims.FirstOrDefault(x => x.Type == ClaimTypes.Role).Value);
+            result.FullName = claims.FirstOrDefault(x => x.Type == ClaimTypes.Name).Value;
+            result.Role = Roles.GetRoleBy(result.RoleId);
+
+            return result;
+
+
+        }
+
         public bool IsAuthenticated()
         {
             var Claim = _contextAccessor.HttpContext.User.Claims.ToList();
@@ -42,7 +64,7 @@ namespace _0_Framework.Application
                 new Claim("AccountId",account.Id.ToString()),
                 new Claim(ClaimTypes.Name,account.FullName),
                 new Claim(ClaimTypes.Role,account.RoleId.ToString()),
-                new Claim("Username",account.UserName),
+                new Claim("Username",account.UserName),//  Or use ClaimTypes.NameIdentifier
             };
 
             var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);

@@ -61,11 +61,17 @@ namespace ServiceHost
             {
 
                 option.AddPolicy("AdminArea",
-                builder => builder.RequireRole(new List<string> { Roles.Administator, Roles.SystemUser }));
+                builder => builder.RequireRole(new List<string> { Roles.Administator, Roles.ContentUploader }));
 
 
                 option.AddPolicy("Shop",
 
+                    builder => builder.RequireRole(new List<string> { Roles.Administator }));
+
+                option.AddPolicy("Discount",
+                    builder => builder.RequireRole(new List<string> { Roles.Administator }));
+
+                option.AddPolicy("Account",
                     builder => builder.RequireRole(new List<string> { Roles.Administator }));
 
             });
@@ -77,6 +83,9 @@ namespace ServiceHost
 
                     option.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
                     option.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
+                    option.Conventions.AuthorizeAreaFolder("Administration", "/Discounts", "Discount");
+                    option.Conventions.AuthorizeAreaFolder("Administration", "/Accounts", "Account");
+
 
 
                 }).AddApplicationPart(typeof(ProductController).Assembly)

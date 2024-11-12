@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fC5Ksgt4c3si81wGErOVuogDDZOevG+OGA4Jz3PbQgc=",
+  "Hash": "2J4jq+vSwGBpcDeRIwBF2kCI/0O8LSf7p9ZlAuxyBFk=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -6874,6 +6874,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductPictures\\profilePhotos\\2024-11-07-21-24-43-2024-11-07-21-24-01-2024-11-07-21-23-16-2024-10-20-21-40-22-download.png"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\profilePhotos\\2024-11-11-21-59-30-2020-09-28-14-37-17-user1.png",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPictures/profilePhotos/2024-11-11-21-59-30-2020-09-28-14-37-17-user1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPictures\\profilePhotos\\2024-11-11-21-59-30-2020-09-28-14-37-17-user1.png"
     },
     {
       "Identity": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\ProductPictures\\sample.png",

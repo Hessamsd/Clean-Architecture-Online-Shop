@@ -8,5 +8,21 @@
         public const string ContentUploader = "3";
 
 
+
+
+        public static string GetRoleBy(int id)
+        {
+
+
+            switch (id)
+            {
+                case 1:
+                    return "مدیر سیستم";
+                case 3:
+                    return "محتوا گذار";
+                default:
+                    return "";
+            }
+        }
     }
 }
