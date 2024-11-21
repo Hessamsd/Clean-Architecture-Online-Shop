@@ -13,13 +13,13 @@
         @Model.Message
         </h1> *@
         <p class="pull-left">
-            <a class="btn btn-success btn-lg" href="#showmodal=@Url.Page("./Index","Create")">ایجاد  نقش  جدید</a>
+            <a class="btn btn-success btn-lg" asp-page="Create">ایجاد  نقش  جدید</a>
         </p>
     </div>
 </div>
 
 
-<div class="row" id="ProductCategoriesDiv">
+<div class="row">
     <div class="col-md-12">
         <div class="panel panel-default">
             <div class="panel-heading">
@@ -53,7 +53,7 @@
                                         <td>@item.CreationDate</td>
                                         <td>
                                             <a class="btn btn-warning btn-custom Waves-effect Waves-light m-b-5"
-                                               href="#showmodal=@Url.Page("./index", "Edit", new { id = item.Id})">
+                                               asp-page="Edit" asp-route-id="@item.Id">
                                                 <i class="fa fa-edit"></i> ویرایش
                                             </a>
                                         </td>

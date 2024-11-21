@@ -28,32 +28,6 @@ namespace ServiceHost.Areas.Administration.Pages.Accounts.Role
         {
             Roles = _roleApplication.List();
         }
-
-        public IActionResult OnGetCreate()
-        {
-            var command = new CreateRole();
-            return Partial("./Create", command);
-        }
-
-        public JsonResult OnPostCreate(CreateRole command)
-        {
-            var result =_roleApplication.Create(command);
-            return new JsonResult(result);
-        }
-
-
-        public IActionResult OnGetEdit(int id)
-        {
-            var command = _roleApplication.GetDetails(id);
-
-            return Partial("/Edit", command);
-        }
-
-
-        public JsonResult OnPostEdit(EditRole command)
-        {
-            var result = _roleApplication.Edit(command);
-            return new JsonResult(result);
-        }
+           
     }
 }
