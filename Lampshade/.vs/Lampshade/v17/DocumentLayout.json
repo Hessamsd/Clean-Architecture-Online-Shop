@@ -3,60 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\acountmanagement.infrastructure.efcore\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|solutionrelative:acountmanagement.infrastructure.efcore\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\acountmanagement.infrastructure.efcore\\mapping\\rolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|solutionrelative:acountmanagement.infrastructure.efcore\\mapping\\rolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\accounts\\role\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\accounts\\role\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}|AccountManagement.Application\\AccountManagement.Application.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\accountmanagement.application\\roleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CC11BC-D919-44DB-B30D-8D3373AD8CAC}|AccountManagement.Application\\AccountManagement.Application.csproj|solutionrelative:accountmanagement.application\\roleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\acountmanagement.infrastructure.efcore\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D1B2C8-7FCB-4008-B7DC-BDCFE8EDA4CA}|AcountManagement.Infrastructure.EFCore\\AcountManagement.Infrastructure.EFCore.csproj|solutionrelative:acountmanagement.infrastructure.efcore\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}|AccountManagement.Application.Contract\\AccountManagement.Application.Contract.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\accountmanagement.application.contract\\role\\createrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA5EDD4-003A-4F9D-AA6E-7756427D9F7A}|AccountManagement.Application.Contract\\AccountManagement.Application.Contract.csproj|solutionrelative:accountmanagement.application.contract\\role\\createrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\accounts\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\accounts\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2025B95D-0345-46F3-8572-031B34D09253}|InventoryManagement.Infrustructure.Configuration\\InventoryManagement.Infrustructure.Configuration.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\inventorymanagement.infrustructure.configuration\\inventorymanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2025B95D-0345-46F3-8572-031B34D09253}|InventoryManagement.Infrustructure.Configuration\\InventoryManagement.Infrustructure.Configuration.csproj|solutionrelative:inventorymanagement.infrustructure.configuration\\inventorymanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F7974-5BEF-4C5D-909D-AC7EA5B33E37}|ShopManagement.Configuration\\ShopManagement.Configuration.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\shopmanagement.configuration\\shopmanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C4F7974-5BEF-4C5D-909D-AC7EA5B33E37}|ShopManagement.Configuration\\ShopManagement.Configuration.csproj|solutionrelative:shopmanagement.configuration\\shopmanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\areas\\administration\\pages\\inventory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\inventory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2025B95D-0345-46F3-8572-031B34D09253}|InventoryManagement.Infrustructure.Configuration\\InventoryManagement.Infrustructure.Configuration.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\inventorymanagement.infrustructure.configuration\\permissions\\inventorypermissionexposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2025B95D-0345-46F3-8572-031B34D09253}|InventoryManagement.Infrustructure.Configuration\\InventoryManagement.Infrustructure.Configuration.csproj|solutionrelative:inventorymanagement.infrustructure.configuration\\permissions\\inventorypermissionexposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F7974-5BEF-4C5D-909D-AC7EA5B33E37}|ShopManagement.Configuration\\ShopManagement.Configuration.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\shopmanagement.configuration\\permissions\\shoppermissionexposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C4F7974-5BEF-4C5D-909D-AC7EA5B33E37}|ShopManagement.Configuration\\ShopManagement.Configuration.csproj|solutionrelative:shopmanagement.configuration\\permissions\\shoppermissionexposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81682CA8-B17A-490B-A90F-B34465072A33}|0_Framework\\0_Framework.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\0_framework\\infrastructure\\ipermissionexposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81682CA8-B17A-490B-A90F-B34465072A33}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\infrastructure\\ipermissionexposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81682CA8-B17A-490B-A90F-B34465072A33}|0_Framework\\0_Framework.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\0_framework\\infrastructure\\permissionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81682CA8-B17A-490B-A90F-B34465072A33}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\infrastructure\\permissionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\securitypagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\securitypagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "RelativeDocumentMoniker": "AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "RelativeToolTip": "AcountManagement.Infrastructure.EFCore\\AccountContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T07:06:01.977Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -99,171 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoleMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Mapping\\RoleMapping.cs",
-              "RelativeDocumentMoniker": "AcountManagement.Infrastructure.EFCore\\Mapping\\RoleMapping.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Mapping\\RoleMapping.cs",
-              "RelativeToolTip": "AcountManagement.Infrastructure.EFCore\\Mapping\\RoleMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "DocumentIndex": 0,
+              "Title": "SecurityPageFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\SecurityPageFilter.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\SecurityPageFilter.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\SecurityPageFilter.cs",
+              "RelativeToolTip": "ServiceHost\\SecurityPageFilter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAxwBkAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T07:03:06.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T18:49:34.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateRole.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AccountManagement.Application.Contract\\Role\\CreateRole.cs",
-              "RelativeDocumentMoniker": "AccountManagement.Application.Contract\\Role\\CreateRole.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AccountManagement.Application.Contract\\Role\\CreateRole.cs",
-              "RelativeToolTip": "AccountManagement.Application.Contract\\Role\\CreateRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:51:29.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoleApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AccountManagement.Application\\RoleApplication.cs",
-              "RelativeDocumentMoniker": "AccountManagement.Application\\RoleApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AccountManagement.Application\\RoleApplication.cs",
-              "RelativeToolTip": "AccountManagement.Application\\RoleApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T18:51:40.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Accounts\\Role\\Edit.cshtml.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T18:12:23.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Repository\\RoleRepository.cs",
-              "RelativeDocumentMoniker": "AcountManagement.Infrastructure.EFCore\\Repository\\RoleRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\AcountManagement.Infrastructure.EFCore\\Repository\\RoleRepository.cs",
-              "RelativeToolTip": "AcountManagement.Infrastructure.EFCore\\Repository\\RoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T18:30:12.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InventoryManagementBootstrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
-              "RelativeToolTip": "InventoryManagement.Infrustructure.Configuration\\InventoryManagementBootstrapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:55:00.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShopManagementBootstrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ShopManagement.Configuration\\ShopManagementBootstrapper.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Configuration\\ShopManagementBootstrapper.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ShopManagement.Configuration\\ShopManagementBootstrapper.cs",
-              "RelativeToolTip": "ShopManagement.Configuration\\ShopManagementBootstrapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:54:10.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Edit.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Inventory\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T06:48:55.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InventoryPermissionExposer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrustructure.Configuration\\Permissions\\InventoryPermissionExposer.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Infrustructure.Configuration\\Permissions\\InventoryPermissionExposer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\InventoryManagement.Infrustructure.Configuration\\Permissions\\InventoryPermissionExposer.cs",
-              "RelativeToolTip": "InventoryManagement.Infrustructure.Configuration\\Permissions\\InventoryPermissionExposer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:47:43.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShopPermissionExposer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ShopManagement.Configuration\\Permissions\\ShopPermissionExposer.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Configuration\\Permissions\\ShopPermissionExposer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ShopManagement.Configuration\\Permissions\\ShopPermissionExposer.cs",
-              "RelativeToolTip": "ShopManagement.Configuration\\Permissions\\ShopPermissionExposer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:46:35.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPermissionExposer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\0_Framework\\Infrastructure\\IPermissionExposer.cs",
-              "RelativeDocumentMoniker": "0_Framework\\Infrastructure\\IPermissionExposer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\0_Framework\\Infrastructure\\IPermissionExposer.cs",
-              "RelativeToolTip": "0_Framework\\Infrastructure\\IPermissionExposer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:45:37.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PermissionsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\0_Framework\\Infrastructure\\PermissionsDto.cs",
-              "RelativeDocumentMoniker": "0_Framework\\Infrastructure\\PermissionsDto.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\0_Framework\\Infrastructure\\PermissionsDto.cs",
-              "RelativeToolTip": "0_Framework\\Infrastructure\\PermissionsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:45:03.517Z",
+              "WhenOpened": "2024-11-24T16:08:01.745Z",
               "EditorCaption": ""
             }
           ]

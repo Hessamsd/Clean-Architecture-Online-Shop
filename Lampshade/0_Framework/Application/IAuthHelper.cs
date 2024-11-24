@@ -10,5 +10,7 @@
         string CurrenrAccountRole();
 
         AuthViewModel CurrentAcountInfo();
+
+        List<int> GetPermissions();
     }
 }
