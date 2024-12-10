@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\wwwroot\\theme\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\wwwroot\\theme\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|c:\\users\\administrator\\desktop\\pr\\atriya project\\code\\lampshade\\servicehost\\pages\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27DC5C5-46B7-41CE-96BF-EE9738B5E86F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T17:25:05.237Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -42,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ServiceHost\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAHAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-09T18:14:47.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\Pages\\Product.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Pages\\Product.cshtml",
@@ -68,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Custom.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\Custom.js",
               "RelativeDocumentMoniker": "ServiceHost\\wwwroot\\Theme\\assets\\js\\Custom.js",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Pr\\Atriya Project\\Code\\Lampshade\\ServiceHost\\wwwroot\\Theme\\assets\\js\\Custom.js",
               "RelativeToolTip": "ServiceHost\\wwwroot\\Theme\\assets\\js\\Custom.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-09T17:57:26.259Z",
               "EditorCaption": ""
