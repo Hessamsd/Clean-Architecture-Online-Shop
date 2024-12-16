@@ -68,7 +68,7 @@
                                                 @foreach (var picture in Model.Product.Pictures)
                                                 {
                                                     <div class="single-image">
-                                                        <img src="/ProductPictures/@picture.Picture" class="img-fluid"
+                                                        <img src="/ProductPictures/@picture" class="img-fluid"
                                                              alt="@picture.PictureAlt" title="@picture.PictureTitle">
                                                     </div>
 
@@ -179,7 +179,7 @@
                                             </div>
 
                                             <div class="product-buttons">
-                                                <a class="cart-btn" onclick="addToCart('@Model.Product.Id','@Model.Product.Name','@Model.Product.Price','@Model.Product.Pictures')">
+                                                <a class="cart-btn" onclick="addToCart('@Model.Product.Id','@Model.Product.Name','@Model.Product.DoublePrice','@Model.Product.Picture')">
                                                     <i class="ion-bag"></i>
                                                     افزودن به سبد خرید
                                                 </a>

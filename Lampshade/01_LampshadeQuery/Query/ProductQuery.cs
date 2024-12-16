@@ -36,23 +36,23 @@ namespace _01_LampshadeQuery.Query
             var product = _context.Products
                 .Include(x => x.Category)
                 .Include(x => x.ProductPictures)
-                .Select(product => new ProductQueryModel
+                .Select(x => new ProductQueryModel
                 {
 
-                    Id = product.Id,
-                    Category = product.Category.Name,
-                    Name = product.Name,
-                    Picture = product.Picture,
-                    PictureAlt = product.PictureAlt,
-                    PictureTitle = product.PictureTitle,
-                    Slug = product.Slug,
-                    CategorySlug = product.Category.Slug,
-                    Code = product.Code,
-                    Description = product.Description,
-                    Keywords = product.Keywords,
-                    MetaDescription = product.MetaDescription,
-                    ShortDescription = product.ShortDescription,
-                    Pictures = MapProductPictures(product.ProductPictures),
+                    Id = x.Id,
+                    Category = x.Category.Name,
+                    Name = x.Name,
+                    Picture = x.Picture,
+                    PictureAlt = x.PictureAlt,
+                    PictureTitle = x.PictureTitle,
+                    Slug = x.Slug,
+                    CategorySlug = x.Category.Slug,
+                    Code = x.Code,
+                    Description = x.Description,
+                    Keywords = x.Keywords,
+                    MetaDescription = x.MetaDescription,
+                    ShortDescription = x.ShortDescription,
+                    Pictures = MapProductPictures(x.ProductPictures),
 
                 }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
 
@@ -67,12 +67,13 @@ namespace _01_LampshadeQuery.Query
                 product.IsInStock = productInventory.InStock;
                 var price = productInventory.UnitPrice;
                 product.Price = price.ToMoney();
+                product.DoublePrice = price;
 
                 var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
 
                 if (discount != null)
                 {
-                    int discountRate = discount.DiscountRate;
+                    var discountRate = discount.DiscountRate;
                     product.DiscountRate = discountRate;
                     product.DiscountExpireDate = discount.EndDate.ToDiscountFormat();
                     product.HasDiscount = discountRate > 0;

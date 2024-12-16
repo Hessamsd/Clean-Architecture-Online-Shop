@@ -416,3 +416,5 @@ C:\Users\Administrator\Desktop\Pr\Atriya Project\Code\Lampshade\ServiceHost\obj\
 C:\Users\Administrator\Desktop\Pr\Atriya Project\Code\Lampshade\ServiceHost\obj\Debug\net8.0\ServiceHost.pdb
 C:\Users\Administrator\Desktop\Pr\Atriya Project\Code\Lampshade\ServiceHost\obj\Debug\net8.0\ServiceHost.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Pr\Atriya Project\Code\Lampshade\ServiceHost\obj\Debug\net8.0\ref\ServiceHost.dll
+C:\Users\Administrator\Desktop\Pr\Atriya Project\Code\Lampshade\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Pr\Atriya Project\Code\Lampshade\ServiceHost\bin\Debug\net8.0\Nancy.dll
